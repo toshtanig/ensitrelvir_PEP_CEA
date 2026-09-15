@@ -1,0 +1,58 @@
+{
+  "title": "Ensitrelvir Post-Exposure Prophylaxis Cost-Effectiveness Model for Japan",
+  "upload_type": "software",
+  "description": "Versioned Python model, inputs, analyses, tests, and reproducibility outputs for a cost-utility analysis of ensitrelvir post-exposure prophylaxis among high-risk household contacts in Japan.",
+  "creators": [
+    {
+      "name": "Taniguchi, Toshibumi",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0002-7732-9870"
+    },
+    {
+      "name": "Yahaba, Misuzu",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0003-2004-6930"
+    },
+    {
+      "name": "Yoshikawa, Hiroshi",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    },
+    {
+      "name": "Igari, Hidetoshi",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0001-7754-3458"
+    },
+    {
+      "name": "Sato, Daisuke",
+      "affiliation": "Hospital and Health Administration, Fujita Health University, Toyoake, Japan",
+      "orcid": "0009-0006-1097-5970"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "version": "0.3.2",
+  "publication_date": "2026-09-15",
+  "language": "eng",
+  "keywords": [
+    "cost-effectiveness",
+    "cost-utility analysis",
+    "ensitrelvir",
+    "post-exposure prophylaxis",
+    "COVID-19",
+    "Japan",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/toshtanig/ensitrelvir_PEP_CEA",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.2",
+      "relation": "isVersionOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Severe-outcome and post-acute benefits are model-based extrapolations because the pivotal prophylaxis trial observed no COVID-19-related hospitalization or death."
+}
