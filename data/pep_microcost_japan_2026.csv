@@ -1,0 +1,10 @@
+﻿component_id,setting,component_ja,component_en,points,jpy_per_point,cost_jpy,source_id,basecase_included,notes
+M01,medical,初診料,Initial consultation,291,10,2910,E15,yes,Face-to-face initial visit. Telemedicine is a scenario. The FY2026 two-point outpatient inflation add-on (JPY 20) was excluded because its effect is immaterial. Facility-dependent wage add-ons were separately excluded because eligibility varies.
+M02,medical,SARS-CoV-2抗原定性,SARS-CoV-2 qualitative antigen test,150,10,1500,E15,yes,"Included as an implementation pathway assumption, not a labeled mandatory test."
+M03,medical,免疫学的検査判断料,Immunological test interpretation fee,144,10,1440,E15,yes,Assumes no other immunological test interpretation fee billed in the month.
+M04,medical,鼻腔・咽頭拭い液採取,Nasal or pharyngeal swab collection,25,10,250,E15,yes,Specimen collection fee.
+M05,medical,処方箋料,Prescription fee,60,10,600,E15,yes,Standard prescription fee for a non-complex prescription.
+P01,pharmacy,調剤基本料1,Pharmacy basic dispensing fee 1,47,10,470,E16,yes,Representative community-pharmacy base fee; actual pharmacy category can differ.
+P02,pharmacy,内服薬調剤料,Oral drug preparation fee,24,10,240,E16,yes,Five-day oral course.
+P03,pharmacy,調剤管理料（28日未満）,"Dispensing management fee, less than 28 days",10,10,100,E16,yes,Short-course oral medication.
+P04,pharmacy,服薬管理指導料（新規等）,"Medication management and counselling, new or other patient",59,10,590,E16,yes,One-off PEP dispensing; repeat-with-notebook fee is lower.

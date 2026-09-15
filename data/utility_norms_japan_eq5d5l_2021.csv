@@ -1,0 +1,7 @@
+﻿sex,age_start,age_end,utility,source_id,extrapolated,notes
+male,70,79,0.889,E11,no,Published age-sex population norm.
+female,70,79,0.876,E11,no,Published age-sex population norm.
+male,80,89,0.821,E11,no,Published age-sex population norm.
+female,80,89,0.774,E11,no,Published age-sex population norm.
+male,90,105,0.821,E11,yes,Carried forward from age 80-89 because the source reported no age group above 89; sensitivity analysis varies remaining QALYs.
+female,90,105,0.774,E11,yes,Carried forward from age 80-89 because the source reported no age group above 89; sensitivity analysis varies remaining QALYs.

@@ -1,0 +1,8 @@
+﻿subgroup_id,subgroup,source_measure,source_estimate,source_lower_95,source_upper_95,base_reference_risk,transformation,extrapolated_hospitalization_probability,source_id,notes
+age65plus_observed,Age 65 years or older,observed risk,0.01298,,,0.00785,direct observed untreated risk,0.01298,E17,Exploratory scenario only; not a causal estimate for PEP.
+malignancy_or3941,Malignancy,odds ratio,3.941,,,0.00785,odds transform from base risk,0.030238732909136697,E17,Exploratory scenario only; not a causal estimate for PEP.
+renal_or2003,Renal disease,odds ratio,2.003,,,0.00785,odds transform from base risk,0.01560071697486257,E17,Exploratory scenario only; not a causal estimate for PEP.
+immunosuppressive_drug_or1637,Immunosuppressive drug use,odds ratio,1.637,,,0.00785,odds transform from base risk,0.012786511687631582,E17,Exploratory scenario only; not a causal estimate for PEP.
+immunocompromised_airr260,Immunocompromised,adjusted incidence-rate ratio,2.6,2.47,2.74,0.00785,low-risk RR approximation: base risk multiplied by aIRR,0.020409999999999998,E21,Exploratory scenario only; not a causal estimate for PEP.
+bcell_depleting_airr510,B-cell-depleting therapy,adjusted incidence-rate ratio,5.1,4.19,6.22,0.00785,low-risk RR approximation: base risk multiplied by aIRR,0.040034999999999994,E21,Exploratory scenario only; not a causal estimate for PEP.
+hematologic_malignancy_airr303,Hematologic malignancy,adjusted incidence-rate ratio,3.03,2.65,3.45,0.00785,low-risk RR approximation: base risk multiplied by aIRR,0.023785499999999998,E21,Exploratory scenario only; not a causal estimate for PEP.

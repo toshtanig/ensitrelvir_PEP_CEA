@@ -1,0 +1,41 @@
+scenario_id: base_high_risk
+psa_iterations: 10000
+random_seed: 20260825
+efficacy_sampling_method: control_risk_jeffreys_plus_reported_rr_lognormal
+wtp_grid_jpy_per_qaly:
+  start: 0
+  stop: 50000000
+  step: 500000
+threshold_analyses:
+  drug_cost_pep:
+    start: 0
+    stop: 60000
+    points: 301
+  administration_cost_pep:
+    start: 0
+    stop: 15000
+    points: 301
+  p_hospital_given_symptomatic:
+    start: 0.0
+    stop: 0.20
+    points: 401
+  hospitalization_attribution_fraction:
+    start: 0.0
+    stop: 1.0
+    points: 201
+  p_death_given_hospital:
+    start: 0.0
+    stop: 0.50
+    points: 251
+  remaining_qaly_if_acute_death:
+    start: 0.0
+    stop: 25.0
+    points: 251
+  postacute_qaly_loss_per_surviving_symptomatic_case:
+    start: 0.0
+    stop: 0.15
+    points: 301
+  postacute_cost_per_surviving_symptomatic_case:
+    start: 0
+    stop: 500000
+    points: 251

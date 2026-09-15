@@ -1,0 +1,38 @@
+﻿scenario_id,parameter_id,override_value,rationale
+high_risk_no_postacute,postacute_qaly_loss_per_surviving_symptomatic_case,0.0,Exclude post-acute health loss.
+high_risk_no_postacute,postacute_cost_per_surviving_symptomatic_case,0.0,Exclude post-acute direct cost.
+high_risk_no_mortality,p_death_given_hospital,0.0,Exclude acute mortality benefit.
+high_risk_face_to_face_no_test,administration_cost_pep,4910.0,"2026 face-to-face initial consultation plus prescription and representative pharmacy fees, without separately billed testing."
+high_risk_telemedicine_no_test,administration_cost_pep,4530.0,"2026 telemedicine first consultation plus prescription and representative pharmacy fees, without separately billed testing."
+high_risk_telemedicine_with_test,administration_cost_pep,7720.0,2026 telemedicine consultation plus antigen test pathway and representative pharmacy fees.
+high_risk_age65_hospital_risk,p_hospital_given_symptomatic,0.01298,Untreated age 65 years or older subgroup risk from the JMDC study.
+high_risk_old_model_hospital_risk,p_hospital_given_symptomatic,0.0177,Earlier Japanese treatment CEA input.
+high_risk_immunocompromised_rr26,p_hospital_given_symptomatic,0.02041,Base risk 0.00785 multiplied by 2.60; exploratory relative-risk transfer.
+high_risk_postacute_cost_50k,postacute_cost_per_surviving_symptomatic_case,50000.0,Illustrative evidence-gap scenario.
+high_risk_postacute_cost_100k,postacute_cost_per_surviving_symptomatic_case,100000.0,Illustrative evidence-gap scenario.
+high_risk_postacute_cost_200k,postacute_cost_per_surviving_symptomatic_case,200000.0,Illustrative evidence-gap scenario.
+legacy_incidence_duration,p_hospital_given_symptomatic,0.0177,Restore v0.1 hospitalization input.
+legacy_incidence_duration,p_death_outpatient,0.0003,Restore v0.1 outpatient mortality input.
+legacy_incidence_duration,remaining_qaly_if_acute_death,14.5,Restore v0.1 placeholder.
+overall_exploratory,p_hospital_given_symptomatic,0.005,Lower-risk exploratory calibration.
+overall_exploratory,remaining_qaly_if_acute_death,15.0,Younger cohort scenario; not a calibrated mortality cohort.
+very_high_risk,p_hospital_given_symptomatic,0.1,Hypothetical 10% conditional hospitalization probability for threshold-oriented exploration; not observed in the Japanese sources used in the model.
+very_high_risk,remaining_qaly_if_acute_death,5.320961240249973,Older age-85 proxy from calibrated sensitivity analysis.
+overall_any_infection_pcc,p_hospital_given_symptomatic,0.005,Legacy lower-risk calibration.
+overall_any_infection_pcc,p_death_outpatient,0.0001,Legacy lower-risk calibration.
+overall_any_infection_pcc,p_pcc_asymptomatic,0.02,Exploratory assumption only.
+overall_any_infection_pcc,remaining_qaly_if_acute_death,25.0,Legacy younger-cohort placeholder.
+high_risk_hospital_attribution_50pct,hospitalization_attribution_fraction,0.5,Half of 28-day all-cause admissions are treated as COVID-19 attributable.
+high_risk_hospital_attribution_0pct,hospitalization_attribution_fraction,0.0,No 28-day all-cause admissions are treated as COVID-19 attributable.
+high_risk_malignancy_or3941,p_hospital_given_symptomatic,0.0302387329091366,Odds transform of the E17 malignancy OR 3.941 from the base risk.
+high_risk_renal_or2003,p_hospital_given_symptomatic,0.0156007169748625,Odds transform of the E17 renal-disease OR 2.003 from the base risk.
+high_risk_immunosuppressive_or1637,p_hospital_given_symptomatic,0.0127865116876315,Odds transform of the E17 immunosuppressive-drug OR 1.637 from the base risk.
+high_risk_bcell_depleting_airr510,p_hospital_given_symptomatic,0.0400349999999999,Base risk multiplied by E21 hospitalization aIRR 5.10; exploratory low-risk approximation.
+high_risk_death_qaly_age75,remaining_qaly_if_acute_death,9.778527068286104,Age-75 life-table calibration.
+high_risk_death_qaly_age85,remaining_qaly_if_acute_death,5.320961240249973,Age-85 life-table calibration.
+high_risk_postacute_through6m,postacute_qaly_loss_per_surviving_symptomatic_case,0.01975,Use only month 1-3 and month 3-6 utility differences; exclude month 6-12.
+high_risk_postacute_half,postacute_qaly_loss_per_surviving_symptomatic_case,0.016125,Use 50% of the base-case integrated recalled utility difference.
+high_risk_breakthrough_treatment_50pct,p_hospital_given_symptomatic,0.006395,Weighted risk: 50% untreated at 0.00785 and 50% ensitrelvir-treated at 0.00494.
+high_risk_breakthrough_treatment_50pct,cost_outpatient,51742.0,Background outpatient cost 26927 plus 50% uptake times ensitrelvir treatment acquisition cost 49630; exploratory and assumes no double counting.
+high_risk_secondary_cases_0p2,secondary_symptomatic_case_multiplier,0.2,"Illustrative first-generation downstream symptomatic-case multiplier; not a fitted transmission estimate. Downstream cases use the high-risk population conditional outcomes, so the calculation is an upper bound."
+high_risk_secondary_cases_0p5,secondary_symptomatic_case_multiplier,0.5,"Illustrative first-generation downstream symptomatic-case multiplier; not a fitted transmission estimate. Downstream cases use the high-risk population conditional outcomes, so the calculation is an upper bound."

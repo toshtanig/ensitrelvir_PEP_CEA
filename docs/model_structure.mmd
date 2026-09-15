@@ -1,0 +1,17 @@
+flowchart TD
+    A[High-risk household contact eligible for PEP] --> B{Strategy}
+    B -->|Ensitrelvir PEP| C[Arm-specific symptomatic COVID-19 risk]
+    B -->|No pharmacologic PEP| D[Arm-specific symptomatic COVID-19 risk]
+    C --> E{Symptomatic COVID-19?}
+    D --> E
+    E -->|No| F[No modeled COVID-19 event]
+    E -->|Yes| G[Observed 28-day all-cause hospitalization risk]
+    G --> H[Apply COVID-19 attribution fraction]
+    H -->|Not attributed| I[No incremental hospitalization effect]
+    H -->|Attributed| J[COVID-19 hospitalization cost and acute disutility]
+    J --> K{In-hospital survival?}
+    K -->|Death| L[Discounted remaining QALY loss]
+    K -->|Survive| M[One-year post-acute utility profile]
+    E -->|Outpatient or nonattributed admission| N[Outpatient acute cost and disutility]
+    N --> M
+    M --> O[Recovered after modeled one-year profile]

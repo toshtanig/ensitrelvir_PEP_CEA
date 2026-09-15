@@ -1,0 +1,4 @@
+﻿interval_id,start_month,end_month,duration_months,utility_covid,utility_control,utility_decrement,qaly_loss,source_id,notes
+PA01,1,3,2,0.907,0.976,0.069,0.0115,E14,Retrospectively recalled month 1-3 interval; difference versus symptomatic test-negative controls; single-clinic online survey.
+PA02,3,6,3,0.961,0.994,0.033,0.00825,E14,Retrospectively recalled month 3-6 interval; difference versus symptomatic test-negative controls; single-clinic online survey.
+PA03,6,12,6,0.97,0.995,0.025,0.0125,E14,Retrospectively recalled month 6-12 interval; excluded in a conservative scenario; no extrapolation beyond month 12.

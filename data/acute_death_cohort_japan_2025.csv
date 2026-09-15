@@ -1,0 +1,3 @@
+﻿age,sex,weight,mortality_hazard_ratio,source_id,notes
+82,male,0.54,1.0,E12,Late-Omicron Japanese hospitalized cohort median age 82; male share 54% from the overall contemporary inpatient cohort is used as a proxy for acute COVID-19 deaths.
+82,female,0.46,1.0,E12,Female share inferred as 1 minus the reported 54% male share; age and sex are proxies because decedent-specific distribution was unavailable.

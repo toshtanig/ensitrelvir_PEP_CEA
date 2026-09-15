@@ -1,0 +1,9 @@
+﻿population,outcome,arm,events,n,reported_probability,event_count_status,timepoint_days,source_id,notes
+high_risk,symptomatic_covid_day10,pep,9.0,382,0.02356,reported_exact,10,E01,Prespecified subgroup with one or more risk factors for severe disease.
+high_risk,symptomatic_covid_day10,no_pep,37.0,374,0.09893,reported_exact,10,E01,Prespecified subgroup with one or more risk factors for severe disease.
+overall,symptomatic_covid_day10,pep,30.0,1030,0.02913,reported_exact,10,E01,Primary modified intention-to-treat analysis population.
+overall,symptomatic_covid_day10,no_pep,91.0,1011,0.09001,reported_exact,10,E01,Primary modified intention-to-treat analysis population.
+overall,any_sars_cov2_infection_day10,pep,,1030,0.14,probability_reported_count_not_used,10,E01,Includes symptomatic and asymptomatic infection. PSA uses effective beta counts based on reported probability and n.
+overall,any_sars_cov2_infection_day10,no_pep,,1011,0.215,probability_reported_count_not_used,10,E01,Includes symptomatic and asymptomatic infection. PSA uses effective beta counts based on reported probability and n.
+high_risk_overall_rr,symptomatic_covid_day10,pep,,382,0.0326469,derived_probability_for_scenario,10,E01,Exploratory scenario: overall-trial RR 0.33 applied to the high-risk placebo risk 0.09893; not an observed arm risk.
+high_risk_overall_rr,symptomatic_covid_day10,no_pep,37.0,374,0.09893,reported_exact,10,E01,Observed high-risk placebo risk retained for the overall-RR scenario.
