@@ -1,0 +1,42 @@
+release:
+  version: "0.3.2"
+  date: "2026-09-15"
+  github_repository_url: "https://github.com/toshtanig/ensitrelvir_PEP_CEA"
+  github_release_url: "https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.2"
+  zenodo_doi: "10.5281/zenodo.22107356"
+  zenodo_record_url: "https://zenodo.org/records/22107356"
+  medrxiv_doi: ""
+  medrxiv_url: ""
+
+manuscript:
+  title: "Cost-Effectiveness of Ensitrelvir for COVID-19 Post-Exposure Prophylaxis Among High-Risk Household Contacts in Japan: A Model-Based Cost-Utility Analysis"
+  journal_target: "Applied Health Economics and Health Policy"
+  corresponding_author_email: "tosh-tanig@chiba-u.jp"
+
+authors:
+  - given_names: "Toshibumi"
+    family_names: "Taniguchi"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "0000-0002-7732-9870"
+  - given_names: "Misuzu"
+    family_names: "Yahaba"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "0000-0003-2004-6930"
+  - given_names: "Hiroshi"
+    family_names: "Yoshikawa"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: ""
+  - given_names: "Hidetoshi"
+    family_names: "Igari"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "0000-0001-7754-3458"
+  - given_names: "Daisuke"
+    family_names: "Sato"
+    affiliation: "Hospital and Health Administration, Fujita Health University, Toyoake, Japan"
+    orcid: "0009-0006-1097-5970"
+
+funding:
+  statement: "No funding was received for this study."
+
+competing_interests:
+  statement: "The authors have no relevant financial or non-financial interests to disclose."

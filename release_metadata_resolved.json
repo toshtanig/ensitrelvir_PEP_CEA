@@ -1,0 +1,42 @@
+{
+  "version": "0.3.2",
+  "release_date": "2026-09-15",
+  "github_repository_url": "https://github.com/toshtanig/ensitrelvir_PEP_CEA",
+  "github_release_url": "https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.2",
+  "zenodo_doi": "10.5281/zenodo.22107356",
+  "zenodo_record_url": "https://zenodo.org/records/22107356",
+  "medrxiv_url": "Not yet posted",
+  "authors": [
+    {
+      "given": "Toshibumi",
+      "family": "Taniguchi",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0002-7732-9870"
+    },
+    {
+      "given": "Misuzu",
+      "family": "Yahaba",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0003-2004-6930"
+    },
+    {
+      "given": "Hiroshi",
+      "family": "Yoshikawa",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": ""
+    },
+    {
+      "given": "Hidetoshi",
+      "family": "Igari",
+      "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
+      "orcid": "0000-0001-7754-3458"
+    },
+    {
+      "given": "Daisuke",
+      "family": "Sato",
+      "affiliation": "Hospital and Health Administration, Fujita Health University, Toyoake, Japan",
+      "orcid": "0009-0006-1097-5970"
+    }
+  ],
+  "corresponding_author_email": "tosh-tanig@chiba-u.jp"
+}

@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the versioned Zenodo record and the accompanying manuscript or preprint."
+title: "Ensitrelvir Post-Exposure Prophylaxis Cost-Effectiveness Model for Japan"
+type: software
+version: 0.3.2
+date-released: 2026-09-15
+authors:
+  - family-names: "Taniguchi"
+    given-names: "Toshibumi"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "https://orcid.org/0000-0002-7732-9870"
+  - family-names: "Yahaba"
+    given-names: "Misuzu"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "https://orcid.org/0000-0003-2004-6930"
+  - family-names: "Yoshikawa"
+    given-names: "Hiroshi"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+  - family-names: "Igari"
+    given-names: "Hidetoshi"
+    affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "https://orcid.org/0000-0001-7754-3458"
+  - family-names: "Sato"
+    given-names: "Daisuke"
+    affiliation: "Hospital and Health Administration, Fujita Health University, Toyoake, Japan"
+    orcid: "https://orcid.org/0009-0006-1097-5970"
+repository-code: "https://github.com/toshtanig/ensitrelvir_PEP_CEA"
+url: "https://doi.org/10.5281/zenodo.22107356"
+doi: "10.5281/zenodo.22107356"
+license: MIT
+abstract: >-
+  A reproducible Python cost-utility model evaluating ensitrelvir as post-exposure
+  prophylaxis for COVID-19 among high-risk household contacts in Japan.
+keywords:
+  - cost-effectiveness
+  - cost-utility analysis
+  - ensitrelvir
+  - post-exposure prophylaxis
+  - COVID-19
+  - Japan

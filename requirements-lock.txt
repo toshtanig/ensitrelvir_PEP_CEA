@@ -1,0 +1,9 @@
+# Validated runtime and test environment for Python 3.13.5 on 2026-08-25.
+# Ruff remains an optional development dependency and was not installed in this run.
+# Use requirements.txt for broader compatible ranges.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+PyYAML==6.0.3
+pytest==9.0.2
