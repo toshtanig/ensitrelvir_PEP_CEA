@@ -1,0 +1,9 @@
+﻿scenario_id,parameter_id,zero_inmb_crossing,grid_min,grid_max
+base_high_risk,drug_cost_pep,11020.94861597535,0.0,60000.0
+base_high_risk,administration_cost_pep,,0.0,15000.0
+base_high_risk,p_hospital_given_symptomatic,0.1064228416301852,0.0,0.2
+base_high_risk,hospitalization_attribution_fraction,,0.0,1.0
+base_high_risk,p_death_given_hospital,,0.0,0.5
+base_high_risk,remaining_qaly_if_acute_death,,0.0,25.0
+base_high_risk,postacute_qaly_loss_per_surviving_symptomatic_case,0.13479864111188614,0.0,0.15
+base_high_risk,postacute_cost_per_surviving_symptomatic_case,,0.0,500000.0

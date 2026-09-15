@@ -1,0 +1,17 @@
+generated_at_utc=2026-08-26T07:35:37.868240+00:00
+model_version=0.3.2
+archive_status=public_release_source_archive
+release_tag=v0.3.2
+git_commit=not_recorded_in_exported_source_archive
+public_repository_url={{GITHUB_REPOSITORY_URL}}
+public_repository_doi={{ZENODO_DOI_URL}}
+python_version=3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]
+python_executable=/opt/pyvenv/bin/python
+platform=Linux-6.18.35-x86_64-with-glibc2.41
+package_numpy=2.3.5
+package_pandas=2.2.3
+package_scipy=1.17.0
+package_matplotlib=3.10.8
+package_PyYAML=6.0.3
+package_pytest=9.0.2
+package_ruff=not_installed

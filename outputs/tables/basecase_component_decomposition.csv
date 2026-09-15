@@ -1,0 +1,10 @@
+﻿outcome_type,component,pep_value,no_pep_value,incremental_value,incremental_definition,share_of_total_qaly_gain
+cost,PEP intervention,57730.0,0.0,57730.0,PEP minus no PEP; positive values increase cost,
+cost,Acute healthcare,870.6693747840001,3655.998355152,-2785.328980368,PEP minus no PEP; positive values increase cost,
+cost,Post-acute healthcare,0.0,0.0,0.0,PEP minus no PEP; positive values increase cost,
+cost,Total cost,58600.669374784,3655.998355152,54944.671019632005,PEP minus no PEP; positive values increase cost,
+qaly,Acute morbidity,0.00011859922099383987,0.00049800598187269,0.0003794067608788501,No PEP QALY loss minus PEP QALY loss; positive values are QALYs gained,0.1161286713764574
+qaly,Acute mortality,0.0001435807633986137,0.0006029051325562332,0.0004593243691576195,No PEP QALY loss minus PEP QALY loss; positive values are QALYs gained,0.14058982132407558
+qaly,Post-acute morbidity,0.00075909425898,0.0031874870560650004,0.0024283927970850006,No PEP QALY loss minus PEP QALY loss; positive values are QALYs gained,0.7432815072994672
+qaly,Adverse events,0.0,0.0,0.0,No PEP QALY loss minus PEP QALY loss; positive values are QALYs gained,0.0
+qaly,Total QALY,0.0010212742433724537,0.004288398170493923,0.0032671239271214697,No PEP QALY loss minus PEP QALY loss; positive values are QALYs gained,

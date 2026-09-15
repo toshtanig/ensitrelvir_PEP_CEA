@@ -1,0 +1,4 @@
+﻿audit_id,parameter_id,derived_value,registered_value,absolute_difference,tolerance,source_file,derivation,passed
+D01,administration_cost_pep,8100.0,8100.0,0.0,1e-09,data/pep_microcost_japan_2026.csv,Sum cost_jpy where basecase_included=yes.,True
+D02,postacute_qaly_loss_per_surviving_symptomatic_case,0.03225,0.03225,0.0,1e-12,data/postacute_utility_profile_japan_2025.csv,Sum interval-specific control-minus-COVID QALY losses.,True
+D03,remaining_qaly_if_acute_death,6.4694903466693745,6.469490346669375,8.881784197001252e-16,1e-09,data/acute_death_cohort_japan_2025.csv; data/life_table_japan_2025.csv; data/utility_norms_japan_eq5d5l_2021.csv,Age-sex weighted lifetime QALY integration at 2% discount.,True

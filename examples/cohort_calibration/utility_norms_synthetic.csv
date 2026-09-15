@@ -1,0 +1,13 @@
+sex,age_start,age_end,utility,data_status
+male,0,49,0.95,synthetic_example_not_for_analysis
+male,50,59,0.92,synthetic_example_not_for_analysis
+male,60,69,0.88,synthetic_example_not_for_analysis
+male,70,79,0.83,synthetic_example_not_for_analysis
+male,80,89,0.78,synthetic_example_not_for_analysis
+male,90,110,0.7,synthetic_example_not_for_analysis
+female,0,49,0.9349999999999999,synthetic_example_not_for_analysis
+female,50,59,0.905,synthetic_example_not_for_analysis
+female,60,69,0.865,synthetic_example_not_for_analysis
+female,70,79,0.815,synthetic_example_not_for_analysis
+female,80,89,0.765,synthetic_example_not_for_analysis
+female,90,110,0.6849999999999999,synthetic_example_not_for_analysis

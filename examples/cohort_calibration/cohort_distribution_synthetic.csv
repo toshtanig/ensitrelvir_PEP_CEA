@@ -1,0 +1,5 @@
+age,sex,weight,mortality_hazard_ratio,data_status
+65,male,0.25,1.0,synthetic_example_not_for_analysis
+65,female,0.25,1.0,synthetic_example_not_for_analysis
+75,male,0.25,1.0,synthetic_example_not_for_analysis
+75,female,0.25,1.0,synthetic_example_not_for_analysis

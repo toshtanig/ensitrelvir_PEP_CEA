@@ -1,0 +1,6 @@
+﻿check_id,metric,modeled_value,unit,external_target,check_type,source_id,comparison_note,source_notes
+V01,"Median total inpatient cost, all hospitalized cases",1304431.0,JPY/admission,1304431.0,input_traceability,E08,Model expectation is a mean-like pathway-weighted value; the external target is a median.,"Observed IQR JPY 968,349 to 1,954,093."
+V02,Median severe inpatient cost,3171204.1199999996,JPY/admission,6210607.0,external_face_validity,E08,The external target is a median for severe 2021 cases and may include a longer or more resource-intensive pathway.,2021 single-center severe cases.
+V03,"Median length of stay, all hospitalized cases",21.0,days,10.0,external_face_validity,E08,Historical single-center LOS comparator; the publication base uses the contemporary Japanese cohort instead.,Observed in 330 hospitalized patients.
+V04,"Median length of stay, contemporary hospitalized cohort",21.0,days,21.0,input_traceability,E12,Direct check against the contemporary Japanese cohort median LOS.,Japanese inpatient database through January 2024.
+V05,"In-hospital mortality, contemporary hospitalized cohort",0.12,proportion,0.12,input_traceability,E12,Direct check against contemporary Japanese in-hospital mortality.,Japanese inpatient database through January 2024.
