@@ -56,7 +56,7 @@ def run() -> None:
     print(results.to_string(index=False))
     print(f"Weighted discounted remaining QALYs per acute death: {weighted_mean:.6f}")
     print(
-        "The default run recalculates the v0.3.2 age-82, 54%-male proxy used in "
+        "The default run recalculates the v0.3.3 age-82, 54%-male proxy used in "
         "the base case. Supply explicit files to evaluate another cohort."
     )
 

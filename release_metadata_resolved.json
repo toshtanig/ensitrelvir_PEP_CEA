@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "release_date": "2026-09-15",
+  "version": "0.3.3",
+  "release_date": "2026-10-20",
   "github_repository_url": "https://github.com/toshtanig/ensitrelvir_PEP_CEA",
-  "github_release_url": "https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.2",
-  "zenodo_doi": "10.5281/zenodo.22107356",
-  "zenodo_record_url": "https://zenodo.org/records/22107356",
-  "medrxiv_url": "Not yet posted",
+  "github_release_url": "https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.3",
+  "zenodo_doi": "10.5281/zenodo.23494164",
+  "zenodo_record_url": "https://zenodo.org/records/23494164",
+  "medrxiv_url": "https://doi.org/10.64898/2026.09.15.26361876",
   "authors": [
     {
       "given": "Toshibumi",
@@ -23,7 +23,7 @@
       "given": "Hiroshi",
       "family": "Yoshikawa",
       "affiliation": "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan",
-      "orcid": ""
+      "orcid": "0000-0001-7613-8899"
     },
     {
       "given": "Hidetoshi",
@@ -34,7 +34,7 @@
     {
       "given": "Daisuke",
       "family": "Sato",
-      "affiliation": "Hospital and Health Administration, Fujita Health University, Toyoake, Japan",
+      "affiliation": "Kitasato University Graduate School of Medical Sciences, Sagamihara, Japan",
       "orcid": "0009-0006-1097-5970"
     }
   ],

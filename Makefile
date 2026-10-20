@@ -30,6 +30,12 @@ psa:
 thresholds:
 	python scripts/run_thresholds.py
 
+two-way-thresholds:
+	python scripts/run_two_way_thresholds.py
+
+figures:
+	python scripts/make_publication_figures.py
+
 results:
 	python scripts/write_manuscript_results.py
 

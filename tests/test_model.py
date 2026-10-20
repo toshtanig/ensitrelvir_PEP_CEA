@@ -85,3 +85,30 @@ def test_secondary_case_bounding_scenario_preserves_direct_trial_effect() -> Non
         rel_tol=1e-12,
     )
     assert float(bound["icer_jpy_per_qaly"]) > 5_000_000
+
+
+def test_qaly_discount_rate_propagates_to_remaining_qaly_and_results() -> None:
+    """Regression test: varying the QALY discount rate must change the mortality QALY input."""
+
+    from ensitrelvir_pep_cea.analysis import (
+        apply_derived_parameter_dependencies,
+        one_way_sensitivity,
+        remaining_qaly_at_discount_rate,
+    )
+    from ensitrelvir_pep_cea.io import base_parameters
+
+    base = base_parameters()
+    assert abs(remaining_qaly_at_discount_rate(0.02) - base["remaining_qaly_if_acute_death"]) < 1e-6
+    low = apply_derived_parameter_dependencies(
+        {**base, "discount_rate_qaly": 0.0}, "discount_rate_qaly", base
+    )
+    high = apply_derived_parameter_dependencies(
+        {**base, "discount_rate_qaly": 0.04}, "discount_rate_qaly", base
+    )
+    assert low["remaining_qaly_if_acute_death"] > base["remaining_qaly_if_acute_death"]
+    assert high["remaining_qaly_if_acute_death"] < base["remaining_qaly_if_acute_death"]
+
+    dsa, _ = one_way_sensitivity("base_high_risk")
+    row = dsa.loc[dsa["parameter_id"] == "discount_rate_qaly"].iloc[0]
+    assert float(row["inmb_span_jpy"]) > 0.0
+    assert float(row["inmb_low_jpy"]) > float(row["inmb_high_jpy"])

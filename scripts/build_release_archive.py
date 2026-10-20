@@ -47,8 +47,8 @@ def main() -> None:
     if dist.exists():
         shutil.rmtree(dist)
     dist.mkdir()
-    archive = dist / "ensitrelvir-pep-cea-v0.3.2.zip"
-    prefix = "ensitrelvir-pep-cea-v0.3.2"
+    archive = dist / "ensitrelvir-pep-cea-v0.3.3.zip"
+    prefix = "ensitrelvir-pep-cea-v0.3.3"
     files = []
     for path in sorted(ROOT.rglob("*")):
         if not path.is_file():

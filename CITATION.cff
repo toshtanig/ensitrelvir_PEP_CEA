@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the versioned Zenodo record and the accompanying manuscript or preprint."
 title: "Ensitrelvir Post-Exposure Prophylaxis Cost-Effectiveness Model for Japan"
 type: software
-version: 0.3.2
-date-released: 2026-09-15
+version: 0.3.3
+date-released: 2026-10-20
 authors:
   - family-names: "Taniguchi"
     given-names: "Toshibumi"
@@ -16,17 +16,18 @@ authors:
   - family-names: "Yoshikawa"
     given-names: "Hiroshi"
     affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
+    orcid: "https://orcid.org/0000-0001-7613-8899"
   - family-names: "Igari"
     given-names: "Hidetoshi"
     affiliation: "Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan"
     orcid: "https://orcid.org/0000-0001-7754-3458"
   - family-names: "Sato"
     given-names: "Daisuke"
-    affiliation: "Hospital and Health Administration, Fujita Health University, Toyoake, Japan"
+    affiliation: "Kitasato University Graduate School of Medical Sciences, Sagamihara, Japan"
     orcid: "https://orcid.org/0009-0006-1097-5970"
 repository-code: "https://github.com/toshtanig/ensitrelvir_PEP_CEA"
-url: "https://doi.org/10.5281/zenodo.22107356"
-doi: "10.5281/zenodo.22107356"
+url: "https://doi.org/10.5281/zenodo.23494164"
+doi: "10.5281/zenodo.23494164"
 license: MIT
 abstract: >-
   A reproducible Python cost-utility model evaluating ensitrelvir as post-exposure

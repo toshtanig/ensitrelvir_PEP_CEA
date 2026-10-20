@@ -1,20 +1,19 @@
 # Ensitrelvir post-exposure prophylaxis cost-effectiveness model for Japan
 
-Version **0.3.2**
+Version **0.3.3**
 
 This repository contains the fully reproducible Python model for a cost-utility analysis of ensitrelvir as post-exposure prophylaxis for COVID-19 among high-risk household contacts in Japan. The base-case analysis adopts the Japanese public healthcare payer perspective.
 
-> **Research-use notice:** This repository supports a health-economic manuscript and planned medRxiv preprint. It is not clinical guidance.
+> **Research-use notice:** This repository supports a health-economic manuscript and its medRxiv preprint. It is not clinical guidance.
 
 ## Associated manuscript
 
 - **Article title:** Cost-Effectiveness of Ensitrelvir for COVID-19 Post-Exposure Prophylaxis Among High-Risk Household Contacts in Japan: A Model-Based Cost-Utility Analysis
-- **Target journal:** Applied Health Economics and Health Policy
+- **Target journal:** Journal of Medical Virology
 - **Authors:** `Toshibumi Taniguchi, Misuzu Yahaba, Hiroshi Yoshikawa, Hidetoshi Igari, Daisuke Sato`
-- **Affiliations:** `Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan; Hospital and Health Administration, Fujita Health University, Toyoake, Japan`
+- **Affiliations:** `Department of Infectious Diseases, Chiba University Hospital, Chiba, Japan; Kitasato University Graduate School of Medical Sciences, Sagamihara, Japan`
 - **Corresponding author:** `tosh-tanig@chiba-u.jp`
 
-Complete these fields before the public release so that the repository archive also satisfies the journal's supplementary-information identification requirements.
 
 ## Research question and causal structure
 
@@ -76,17 +75,18 @@ Before publishing the final tagged release:
 1. Edit `release_metadata.yml` with the real authors, affiliations, ORCID iDs, GitHub URLs, and reserved Zenodo DOI.
 2. Run `python scripts/finalize_release_metadata.py --metadata release_metadata.yml`.
 3. Run `python scripts/check_release_readiness.py`.
-4. Commit the finalized files and create tag `v0.3.2`.
+4. Commit the finalized files and create tag `v0.3.3`.
 5. Run `python scripts/build_release_archive.py` and upload the generated archive to the reserved Zenodo record.
 
 Detailed instructions are in `ZENODO_RELEASE_WORKFLOW.md`.
 
-Current placeholders:
+Release identifiers:
 
 - GitHub repository: `https://github.com/toshtanig/ensitrelvir_PEP_CEA`
-- GitHub release: `https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.2`
-- Zenodo DOI: `https://doi.org/10.5281/zenodo.22107356`
-- medRxiv preprint: `Not yet posted`
+- GitHub release: `https://github.com/toshtanig/ensitrelvir_PEP_CEA/releases/tag/v0.3.3`
+- Zenodo DOI (this version, v0.3.3): `https://doi.org/10.5281/zenodo.23494164`
+- Previous version v0.3.2 (cited by medRxiv version 1): `https://doi.org/10.5281/zenodo.22107356`
+- medRxiv preprint: `https://doi.org/10.64898/2026.09.15.26361876`
 
 ## Citation
 

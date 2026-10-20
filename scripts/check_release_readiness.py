@@ -33,8 +33,8 @@ def main() -> int:
             problems.append(f"{rel}: contains an em dash")
     try:
         cff = yaml.safe_load((ROOT / "CITATION.cff").read_text(encoding="utf-8"))
-        if cff.get("version") != "0.3.2":
-            problems.append("CITATION.cff: version is not 0.3.2")
+        if cff.get("version") != "0.3.3":
+            problems.append("CITATION.cff: version is not 0.3.3")
         if not cff.get("doi"):
             problems.append("CITATION.cff: DOI missing")
         if not cff.get("authors"):

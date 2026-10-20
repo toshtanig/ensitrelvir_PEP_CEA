@@ -9,6 +9,7 @@ from run_dsa import run as run_dsa
 from run_psa import run as run_psa
 from run_scenarios import run as run_scenarios
 from run_thresholds import run as run_thresholds
+from run_two_way_thresholds import run as run_two_way_thresholds
 from validate_inputs import run as validate_inputs
 from write_parameter_tables import run as write_parameter_tables
 from write_manuscript_results import run as write_manuscript_results
@@ -25,6 +26,7 @@ def run() -> None:
         ("dsa", run_dsa),
         ("psa", run_psa),
         ("thresholds", run_thresholds),
+        ("two_way_thresholds", run_two_way_thresholds),
         ("manuscript_results", write_manuscript_results),
     ]
     for name, function in steps:

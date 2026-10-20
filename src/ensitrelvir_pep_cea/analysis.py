@@ -11,15 +11,62 @@ from .io import (
     Scenario,
     apply_scenario_overrides,
     base_parameters,
+    load_acute_death_cohort,
     load_input_traceability_targets,
+    load_life_table,
     load_parameter_frame,
     load_scenario,
     load_scenarios,
+    load_utility_norms,
     trial_effect_estimate,
     trial_probabilities,
     trial_rows,
 )
+from .life_table import calculate_discounted_remaining_qaly
 from .model import ModelResult, evaluate_model
+
+
+def remaining_qaly_at_discount_rate(discount_rate: float) -> float:
+    """Recalculate discounted remaining QALYs per acute death at a given rate.
+
+    The base-case value of ``remaining_qaly_if_acute_death`` is a life-table
+    integral evaluated at the base QALY discount rate. When the QALY discount
+    rate itself is varied, this derived input must be recalculated so that the
+    change propagates to the mortality component of the model.
+    """
+
+    _, weighted_mean = calculate_discounted_remaining_qaly(
+        cohort=load_acute_death_cohort(),
+        life_table=load_life_table(),
+        utility_norms=load_utility_norms(),
+        discount_rate=float(discount_rate),
+    )
+    return float(weighted_mean)
+
+
+def apply_derived_parameter_dependencies(
+    params: dict[str, float],
+    changed_parameter_id: str,
+    base_params: dict[str, float],
+) -> dict[str, float]:
+    """Propagate a changed analytic parameter to the derived inputs that depend on it.
+
+    Currently only ``discount_rate_qaly`` has a derived dependency. The derived
+    remaining-QALY value is rescaled relative to the base-case calibration so that
+    scenario overrides of ``remaining_qaly_if_acute_death`` (for example the age-85
+    proxy) keep their relative adjustment.
+    """
+
+    updated = dict(params)
+    if changed_parameter_id == "discount_rate_qaly":
+        base_rate = float(base_params["discount_rate_qaly"])
+        base_calibrated = remaining_qaly_at_discount_rate(base_rate)
+        new_calibrated = remaining_qaly_at_discount_rate(float(updated["discount_rate_qaly"]))
+        scale = new_calibrated / base_calibrated if base_calibrated > 0.0 else 1.0
+        updated["remaining_qaly_if_acute_death"] = (
+            float(params["remaining_qaly_if_acute_death"]) * scale
+        )
+    return updated
 
 
 @dataclass(frozen=True)
@@ -197,6 +244,9 @@ def one_way_sensitivity(
         for label, value in (("low", low), ("high", high)):
             params = dict(run.parameters)
             params[parameter_id] = value
+            params = apply_derived_parameter_dependencies(
+                params, parameter_id, run.parameters
+            )
             p_sym = trial_probabilities(
                 population=run.scenario.trial_population,
                 outcome="symptomatic_covid_day10",
@@ -254,6 +304,7 @@ def threshold_grid(
     for value in values:
         params = dict(run.parameters)
         params[parameter_id] = float(value)
+        params = apply_derived_parameter_dependencies(params, parameter_id, run.parameters)
         if run.scenario.structural_mode == "symptomatic_mediation_profile":
             from .sampling import _evaluate_profile_incremental_fast
 
@@ -322,8 +373,8 @@ def input_traceability_table(scenario_id: str = "base_high_risk") -> pd.DataFram
     }
     comparison_notes = {
         "V01": (
-            "Model expectation is a mean-like pathway-weighted value; the external "
-            "target is a median."
+            "Direct check: the base-case input is the arithmetic mean derived from "
+            "the published total cost; the reported median (JPY 1,304,431) is lower."
         ),
         "V02": (
             "The external target is a median for severe 2021 cases and may include "

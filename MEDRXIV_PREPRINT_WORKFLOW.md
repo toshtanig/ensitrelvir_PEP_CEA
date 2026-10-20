@@ -4,7 +4,7 @@ The journal manuscript may be posted as a preprint after the GitHub release and 
 
 ## Before submission
 
-1. Publish GitHub tag `v0.3.2`.
+1. Publish GitHub tag `v0.3.3`.
 2. Publish the Zenodo record and confirm the DOI resolves.
 3. Replace repository and DOI placeholders in the title page, manuscript, supplement, data workbook, and cover letter.
 4. Create the final preprint PDF with author information and public repository citations.

@@ -10,4 +10,4 @@ Expected unresolved fields before finalization:
 - Funding and competing-interest statements
 - medRxiv DOI or URL, which can be added after the preprint is posted
 
-Run `python scripts/finalize_release_metadata.py --metadata release_metadata.yml` and then `python scripts/check_release_readiness.py`. The readiness check is expected to fail before these fields are completed and must pass before tag `v0.3.2` is created.
+Run `python scripts/finalize_release_metadata.py --metadata release_metadata.yml` and then `python scripts/check_release_readiness.py`. The readiness check is expected to fail before these fields are completed and must pass before tag `v0.3.3` is created.

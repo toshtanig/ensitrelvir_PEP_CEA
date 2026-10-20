@@ -1,6 +1,6 @@
 # GitHub and Zenodo release workflow
 
-Use one Zenodo archiving route for a given version. This package assumes a manual Zenodo deposit so that a DOI can be reserved and inserted before publication. Do not also enable automatic GitHub-to-Zenodo archiving for version 0.3.2.
+Use one Zenodo archiving route for a given version. This package assumes a manual Zenodo deposit so that a DOI can be reserved and inserted before publication. Do not also enable automatic GitHub-to-Zenodo archiving for version 0.3.3.
 
 ## 1. Complete metadata
 
@@ -24,7 +24,7 @@ python scripts/audit_derived_inputs.py
 python -m pytest -q
 ```
 
-Commit the finalized metadata. Create tag `v0.3.2` and a GitHub release.
+Commit the finalized metadata. Create tag `v0.3.3` and a GitHub release.
 
 ## 5. Build and upload the immutable archive
 
@@ -32,7 +32,7 @@ Commit the finalized metadata. Create tag `v0.3.2` and a GitHub release.
 python scripts/build_release_archive.py
 ```
 
-Upload `dist/ensitrelvir-pep-cea-v0.3.2.zip` to the reserved Zenodo draft. Confirm resource type Software, open access, MIT license, version 0.3.2, English language, author order, ORCID iDs, and related GitHub identifiers. Zenodo records a checksum automatically after upload. Then publish the record.
+Upload `dist/ensitrelvir-pep-cea-v0.3.3.zip` to the reserved Zenodo draft. Confirm resource type Software, open access, MIT license, version 0.3.3, English language, author order, ORCID iDs, and related GitHub identifiers. Zenodo records a checksum automatically after upload. Then publish the record.
 
 ## 6. Update manuscript files
 

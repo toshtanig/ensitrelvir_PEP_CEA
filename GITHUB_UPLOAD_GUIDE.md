@@ -37,15 +37,15 @@ python scripts/run_all.py
 ```bash
 git init
 git add .
-git commit -m "Public release v0.3.2"
+git commit -m "Public release v0.3.3"
 git branch -M main
 git remote add origin REPLACE_WITH_GITHUB_REPOSITORY_URL
 git push -u origin main
-git tag -a v0.3.2 -m "Ensitrelvir PEP CEA v0.3.2"
-git push origin v0.3.2
+git tag -a v0.3.3 -m "Ensitrelvir PEP CEA v0.3.3"
+git push origin v0.3.3
 ```
 
-Create a GitHub release from tag `v0.3.2`. A separate checksum attachment is optional and is not needed for journal submission or Zenodo deposition.
+Create a GitHub release from tag `v0.3.3`. A separate checksum attachment is optional and is not needed for journal submission or Zenodo deposition.
 
 ## 5. Preserve the exact analysis
 

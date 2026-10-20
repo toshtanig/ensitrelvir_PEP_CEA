@@ -1,0 +1,1205 @@
+﻿postacute_variant,postacute_label,control_symptomatic_risk,relative_risk,drug_cost_threshold_jpy
+base_high_risk,Base case (months 1-12),0.0,0.24,-8100.0
+base_high_risk,Base case (months 1-12),0.001,0.24,-7902.704774861151
+base_high_risk,Base case (months 1-12),0.002,0.24,-7705.4095497223025
+base_high_risk,Base case (months 1-12),0.003,0.24,-7508.114324583461
+base_high_risk,Base case (months 1-12),0.004,0.24,-7310.819099444612
+base_high_risk,Base case (months 1-12),0.005,0.24,-7113.523874305756
+base_high_risk,Base case (months 1-12),0.006,0.24,-6916.228649166915
+base_high_risk,Base case (months 1-12),0.007,0.24,-6718.933424028073
+base_high_risk,Base case (months 1-12),0.008,0.24,-6521.638198889224
+base_high_risk,Base case (months 1-12),0.009000000000000001,0.24,-6324.342973750376
+base_high_risk,Base case (months 1-12),0.01,0.24,-6127.047748611527
+base_high_risk,Base case (months 1-12),0.011,0.24,-5929.752523472685
+base_high_risk,Base case (months 1-12),0.012,0.24,-5732.457298333837
+base_high_risk,Base case (months 1-12),0.013000000000000001,0.24,-5535.162073194981
+base_high_risk,Base case (months 1-12),0.014,0.24,-5337.866848056132
+base_high_risk,Base case (months 1-12),0.015,0.24,-5140.571622917283
+base_high_risk,Base case (months 1-12),0.016,0.24,-4943.276397778442
+base_high_risk,Base case (months 1-12),0.017,0.24,-4745.9811726396
+base_high_risk,Base case (months 1-12),0.018000000000000002,0.24,-4548.685947500751
+base_high_risk,Base case (months 1-12),0.019,0.24,-4351.390722361903
+base_high_risk,Base case (months 1-12),0.02,0.24,-4154.095497223061
+base_high_risk,Base case (months 1-12),0.021,0.24,-3956.800272084205
+base_high_risk,Base case (months 1-12),0.022,0.24,-3759.5050469453563
+base_high_risk,Base case (months 1-12),0.023,0.24,-3562.2098218065075
+base_high_risk,Base case (months 1-12),0.024,0.24,-3364.914596667666
+base_high_risk,Base case (months 1-12),0.025,0.24,-3167.6193715288173
+base_high_risk,Base case (months 1-12),0.026000000000000002,0.24,-2970.3241463899685
+base_high_risk,Base case (months 1-12),0.027,0.24,-2773.0289212511198
+base_high_risk,Base case (months 1-12),0.028,0.24,-2575.7336961122783
+base_high_risk,Base case (months 1-12),0.029,0.24,-2378.4384709734295
+base_high_risk,Base case (months 1-12),0.03,0.24,-2181.1432458345807
+base_high_risk,Base case (months 1-12),0.031,0.24,-1983.848020695732
+base_high_risk,Base case (months 1-12),0.032,0.24,-1786.5527955568832
+base_high_risk,Base case (months 1-12),0.033,0.24,-1589.2575704180417
+base_high_risk,Base case (months 1-12),0.034,0.24,-1391.962345279193
+base_high_risk,Base case (months 1-12),0.035,0.24,-1194.6671201403442
+base_high_risk,Base case (months 1-12),0.036000000000000004,0.24,-997.3718950014954
+base_high_risk,Base case (months 1-12),0.037,0.24,-800.0766698626467
+base_high_risk,Base case (months 1-12),0.038,0.24,-602.7814447237979
+base_high_risk,Base case (months 1-12),0.039,0.24,-405.4862195849564
+base_high_risk,Base case (months 1-12),0.04,0.24,-208.19099444610765
+base_high_risk,Base case (months 1-12),0.041,0.24,-10.895769307258888
+base_high_risk,Base case (months 1-12),0.042,0.24,186.3994558315826
+base_high_risk,Base case (months 1-12),0.043000000000000003,0.24,383.69468097043136
+base_high_risk,Base case (months 1-12),0.044,0.24,580.9899061092801
+base_high_risk,Base case (months 1-12),0.045,0.24,778.2851312481362
+base_high_risk,Base case (months 1-12),0.046,0.24,975.5803563869777
+base_high_risk,Base case (months 1-12),0.047,0.24,1172.8755815258264
+base_high_risk,Base case (months 1-12),0.048,0.24,1370.1708066646752
+base_high_risk,Base case (months 1-12),0.049,0.24,1567.466031803524
+base_high_risk,Base case (months 1-12),0.05,0.24,1764.7612569423654
+base_high_risk,Base case (months 1-12),0.051000000000000004,0.24,1962.0564820812142
+base_high_risk,Base case (months 1-12),0.052000000000000005,0.24,2159.351707220063
+base_high_risk,Base case (months 1-12),0.053,0.24,2356.6469323589117
+base_high_risk,Base case (months 1-12),0.054,0.24,2553.9421574977605
+base_high_risk,Base case (months 1-12),0.055,0.24,2751.237382636602
+base_high_risk,Base case (months 1-12),0.056,0.24,2948.5326077754507
+base_high_risk,Base case (months 1-12),0.057,0.24,3145.8278329142995
+base_high_risk,Base case (months 1-12),0.058,0.24,3343.1230580531483
+base_high_risk,Base case (months 1-12),0.059000000000000004,0.24,3540.4182831919898
+base_high_risk,Base case (months 1-12),0.06,0.24,3737.7135083308385
+base_high_risk,Base case (months 1-12),0.061,0.24,3935.0087334696946
+base_high_risk,Base case (months 1-12),0.062,0.24,4132.303958608543
+base_high_risk,Base case (months 1-12),0.063,0.24,4329.599183747385
+base_high_risk,Base case (months 1-12),0.064,0.24,4526.894408886226
+base_high_risk,Base case (months 1-12),0.065,0.24,4724.189634025082
+base_high_risk,Base case (months 1-12),0.066,0.24,4921.484859163924
+base_high_risk,Base case (months 1-12),0.067,0.24,5118.780084302773
+base_high_risk,Base case (months 1-12),0.068,0.24,5316.075309441614
+base_high_risk,Base case (months 1-12),0.069,0.24,5513.37053458047
+base_high_risk,Base case (months 1-12),0.07,0.24,5710.665759719319
+base_high_risk,Base case (months 1-12),0.07100000000000001,0.24,5907.96098485816
+base_high_risk,Base case (months 1-12),0.07200000000000001,0.24,6105.256209997009
+base_high_risk,Base case (months 1-12),0.073,0.24,6302.551435135851
+base_high_risk,Base case (months 1-12),0.074,0.24,6499.846660274699
+base_high_risk,Base case (months 1-12),0.075,0.24,6697.141885413548
+base_high_risk,Base case (months 1-12),0.076,0.24,6894.437110552397
+base_high_risk,Base case (months 1-12),0.077,0.24,7091.732335691246
+base_high_risk,Base case (months 1-12),0.078,0.24,7289.027560830087
+base_high_risk,Base case (months 1-12),0.079,0.24,7486.322785968943
+base_high_risk,Base case (months 1-12),0.08,0.24,7683.618011107792
+base_high_risk,Base case (months 1-12),0.081,0.24,7880.9132362466335
+base_high_risk,Base case (months 1-12),0.082,0.24,8078.208461385482
+base_high_risk,Base case (months 1-12),0.083,0.24,8275.503686524331
+base_high_risk,Base case (months 1-12),0.084,0.24,8472.79891166318
+base_high_risk,Base case (months 1-12),0.085,0.24,8670.094136802021
+base_high_risk,Base case (months 1-12),0.08600000000000001,0.24,8867.38936194087
+base_high_risk,Base case (months 1-12),0.08700000000000001,0.24,9064.684587079719
+base_high_risk,Base case (months 1-12),0.088,0.24,9261.979812218568
+base_high_risk,Base case (months 1-12),0.089,0.24,9459.275037357416
+base_high_risk,Base case (months 1-12),0.09,0.24,9656.570262496258
+base_high_risk,Base case (months 1-12),0.091,0.24,9853.865487635107
+base_high_risk,Base case (months 1-12),0.092,0.24,10051.160712773955
+base_high_risk,Base case (months 1-12),0.093,0.24,10248.455937912804
+base_high_risk,Base case (months 1-12),0.094,0.24,10445.751163051653
+base_high_risk,Base case (months 1-12),0.095,0.24,10643.046388190502
+base_high_risk,Base case (months 1-12),0.096,0.24,10840.34161332935
+base_high_risk,Base case (months 1-12),0.097,0.24,11037.6368384682
+base_high_risk,Base case (months 1-12),0.098,0.24,11234.93206360704
+base_high_risk,Base case (months 1-12),0.099,0.24,11432.22728874589
+base_high_risk,Base case (months 1-12),0.1,0.24,11629.522513884738
+base_high_risk,Base case (months 1-12),0.101,0.24,11826.817739023587
+base_high_risk,Base case (months 1-12),0.10200000000000001,0.24,12024.112964162436
+base_high_risk,Base case (months 1-12),0.10300000000000001,0.24,12221.408189301277
+base_high_risk,Base case (months 1-12),0.10400000000000001,0.24,12418.703414440126
+base_high_risk,Base case (months 1-12),0.105,0.24,12615.998639578975
+base_high_risk,Base case (months 1-12),0.106,0.24,12813.293864717823
+base_high_risk,Base case (months 1-12),0.107,0.24,13010.589089856658
+base_high_risk,Base case (months 1-12),0.108,0.24,13207.884314995506
+base_high_risk,Base case (months 1-12),0.109,0.24,13405.179540134355
+base_high_risk,Base case (months 1-12),0.11,0.24,13602.474765273219
+base_high_risk,Base case (months 1-12),0.111,0.24,13799.76999041206
+base_high_risk,Base case (months 1-12),0.112,0.24,13997.065215550901
+base_high_risk,Base case (months 1-12),0.113,0.24,14194.36044068975
+base_high_risk,Base case (months 1-12),0.114,0.24,14391.655665828599
+base_high_risk,Base case (months 1-12),0.115,0.24,14588.950890967448
+base_high_risk,Base case (months 1-12),0.116,0.24,14786.24611610629
+base_high_risk,Base case (months 1-12),0.117,0.24,14983.541341245145
+base_high_risk,Base case (months 1-12),0.11800000000000001,0.24,15180.836566383994
+base_high_risk,Base case (months 1-12),0.11900000000000001,0.24,15378.131791522843
+base_high_risk,Base case (months 1-12),0.12,0.24,15575.427016661677
+base_high_risk,Base case (months 1-12),0.121,0.24,15772.722241800526
+base_high_risk,Base case (months 1-12),0.122,0.24,15970.017466939375
+base_high_risk,Base case (months 1-12),0.123,0.24,16167.312692078223
+base_high_risk,Base case (months 1-12),0.124,0.24,16364.607917217072
+base_high_risk,Base case (months 1-12),0.125,0.24,16561.90314235592
+base_high_risk,Base case (months 1-12),0.126,0.24,16759.19836749477
+base_high_risk,Base case (months 1-12),0.127,0.24,16956.49359263362
+base_high_risk,Base case (months 1-12),0.128,0.24,17153.788817772464
+base_high_risk,Base case (months 1-12),0.129,0.24,17351.084042911312
+base_high_risk,Base case (months 1-12),0.13,0.24,17548.379268050157
+base_high_risk,Base case (months 1-12),0.131,0.24,17745.674493189006
+base_high_risk,Base case (months 1-12),0.132,0.24,17942.96971832785
+base_high_risk,Base case (months 1-12),0.133,0.24,18140.264943466696
+base_high_risk,Base case (months 1-12),0.134,0.24,18337.560168605545
+base_high_risk,Base case (months 1-12),0.135,0.24,18534.855393744398
+base_high_risk,Base case (months 1-12),0.136,0.24,18732.15061888324
+base_high_risk,Base case (months 1-12),0.137,0.24,18929.445844022095
+base_high_risk,Base case (months 1-12),0.138,0.24,19126.741069160933
+base_high_risk,Base case (months 1-12),0.139,0.24,19324.036294299778
+base_high_risk,Base case (months 1-12),0.14,0.24,19521.331519438638
+base_high_risk,Base case (months 1-12),0.14100000000000001,0.24,19718.626744577487
+base_high_risk,Base case (months 1-12),0.14200000000000002,0.24,19915.92196971632
+base_high_risk,Base case (months 1-12),0.14300000000000002,0.24,20113.217194855173
+base_high_risk,Base case (months 1-12),0.14400000000000002,0.24,20310.512419994026
+base_high_risk,Base case (months 1-12),0.145,0.24,20507.80764513287
+base_high_risk,Base case (months 1-12),0.146,0.24,20705.102870271705
+base_high_risk,Base case (months 1-12),0.147,0.24,20902.398095410557
+base_high_risk,Base case (months 1-12),0.148,0.24,21099.693320549402
+base_high_risk,Base case (months 1-12),0.149,0.24,21296.98854568825
+base_high_risk,Base case (months 1-12),0.15,0.24,21494.283770827104
+base_high_risk,Base case (months 1-12),0.151,0.24,21691.578995965952
+base_high_risk,Base case (months 1-12),0.152,0.24,21888.874221104797
+base_high_risk,Base case (months 1-12),0.153,0.24,22086.169446243646
+base_high_risk,Base case (months 1-12),0.154,0.24,22283.46467138249
+base_high_risk,Base case (months 1-12),0.155,0.24,22480.759896521336
+base_high_risk,Base case (months 1-12),0.156,0.24,22678.055121660174
+base_high_risk,Base case (months 1-12),0.157,0.24,22875.35034679904
+base_high_risk,Base case (months 1-12),0.158,0.24,23072.645571937883
+base_high_risk,Base case (months 1-12),0.159,0.24,23269.940797076724
+base_high_risk,Base case (months 1-12),0.16,0.24,23467.236022215577
+base_high_risk,Base case (months 1-12),0.161,0.24,23664.531247354425
+base_high_risk,Base case (months 1-12),0.162,0.24,23861.826472493274
+base_high_risk,Base case (months 1-12),0.163,0.24,24059.12169763212
+base_high_risk,Base case (months 1-12),0.164,0.24,24256.416922770957
+base_high_risk,Base case (months 1-12),0.165,0.24,24453.71214790981
+base_high_risk,Base case (months 1-12),0.166,0.24,24651.00737304867
+base_high_risk,Base case (months 1-12),0.167,0.24,24848.302598187514
+base_high_risk,Base case (months 1-12),0.168,0.24,25045.597823326352
+base_high_risk,Base case (months 1-12),0.169,0.24,25242.8930484652
+base_high_risk,Base case (months 1-12),0.17,0.24,25440.188273604046
+base_high_risk,Base case (months 1-12),0.171,0.24,25637.4834987429
+base_high_risk,Base case (months 1-12),0.17200000000000001,0.24,25834.778723881736
+base_high_risk,Base case (months 1-12),0.17300000000000001,0.24,26032.073949020596
+base_high_risk,Base case (months 1-12),0.17400000000000002,0.24,26229.36917415944
+base_high_risk,Base case (months 1-12),0.17500000000000002,0.24,26426.664399298294
+base_high_risk,Base case (months 1-12),0.176,0.24,26623.95962443714
+base_high_risk,Base case (months 1-12),0.177,0.24,26821.25484957598
+base_high_risk,Base case (months 1-12),0.178,0.24,27018.55007471482
+base_high_risk,Base case (months 1-12),0.179,0.24,27215.84529985367
+base_high_risk,Base case (months 1-12),0.18,0.24,27413.140524992516
+base_high_risk,Base case (months 1-12),0.181,0.24,27610.435750131364
+base_high_risk,Base case (months 1-12),0.182,0.24,27807.730975270213
+base_high_risk,Base case (months 1-12),0.183,0.24,28005.02620040907
+base_high_risk,Base case (months 1-12),0.184,0.24,28202.321425547914
+base_high_risk,Base case (months 1-12),0.185,0.24,28399.616650686752
+base_high_risk,Base case (months 1-12),0.186,0.24,28596.911875825605
+base_high_risk,Base case (months 1-12),0.187,0.24,28794.207100964453
+base_high_risk,Base case (months 1-12),0.188,0.24,28991.502326103302
+base_high_risk,Base case (months 1-12),0.189,0.24,29188.79755124215
+base_high_risk,Base case (months 1-12),0.19,0.24,29386.092776381003
+base_high_risk,Base case (months 1-12),0.191,0.24,29583.38800151985
+base_high_risk,Base case (months 1-12),0.192,0.24,29780.683226658693
+base_high_risk,Base case (months 1-12),0.193,0.24,29977.978451797535
+base_high_risk,Base case (months 1-12),0.194,0.24,30175.273676936384
+base_high_risk,Base case (months 1-12),0.195,0.24,30372.568902075236
+base_high_risk,Base case (months 1-12),0.196,0.24,30569.864127214078
+base_high_risk,Base case (months 1-12),0.197,0.24,30767.159352352937
+base_high_risk,Base case (months 1-12),0.198,0.24,30964.454577491775
+base_high_risk,Base case (months 1-12),0.199,0.24,31161.749802630628
+base_high_risk,Base case (months 1-12),0.2,0.24,31359.04502776947
+base_high_risk,Base case (months 1-12),0.201,0.24,31556.340252908318
+base_high_risk,Base case (months 1-12),0.202,0.24,31753.635478047167
+base_high_risk,Base case (months 1-12),0.203,0.24,31950.930703186015
+base_high_risk,Base case (months 1-12),0.20400000000000001,0.24,32148.225928324857
+base_high_risk,Base case (months 1-12),0.20500000000000002,0.24,32345.521153463706
+base_high_risk,Base case (months 1-12),0.20600000000000002,0.24,32542.816378602554
+base_high_risk,Base case (months 1-12),0.20700000000000002,0.24,32740.11160374141
+base_high_risk,Base case (months 1-12),0.20800000000000002,0.24,32937.40682888025
+base_high_risk,Base case (months 1-12),0.209,0.24,33134.70205401909
+base_high_risk,Base case (months 1-12),0.21,0.24,33331.99727915795
+base_high_risk,Base case (months 1-12),0.211,0.24,33529.29250429679
+base_high_risk,Base case (months 1-12),0.212,0.24,33726.58772943563
+base_high_risk,Base case (months 1-12),0.213,0.24,33923.88295457449
+base_high_risk,Base case (months 1-12),0.214,0.24,34121.17817971334
+base_high_risk,Base case (months 1-12),0.215,0.24,34318.47340485218
+base_high_risk,Base case (months 1-12),0.216,0.24,34515.76862999103
+base_high_risk,Base case (months 1-12),0.217,0.24,34713.06385512987
+base_high_risk,Base case (months 1-12),0.218,0.24,34910.35908026872
+base_high_risk,Base case (months 1-12),0.219,0.24,35107.65430540757
+base_high_risk,Base case (months 1-12),0.22,0.24,35304.94953054642
+base_high_risk,Base case (months 1-12),0.221,0.24,35502.24475568526
+base_high_risk,Base case (months 1-12),0.222,0.24,35699.539980824105
+base_high_risk,Base case (months 1-12),0.223,0.24,35896.83520596296
+base_high_risk,Base case (months 1-12),0.224,0.24,36094.1304311018
+base_high_risk,Base case (months 1-12),0.225,0.24,36291.42565624065
+base_high_risk,Base case (months 1-12),0.226,0.24,36488.7208813795
+base_high_risk,Base case (months 1-12),0.227,0.24,36686.01610651834
+base_high_risk,Base case (months 1-12),0.228,0.24,36883.3113316572
+base_high_risk,Base case (months 1-12),0.229,0.24,37080.60655679604
+base_high_risk,Base case (months 1-12),0.23,0.24,37277.901781934896
+base_high_risk,Base case (months 1-12),0.231,0.24,37475.19700707374
+base_high_risk,Base case (months 1-12),0.232,0.24,37672.49223221259
+base_high_risk,Base case (months 1-12),0.233,0.24,37869.787457351435
+base_high_risk,Base case (months 1-12),0.234,0.24,38067.082682490276
+base_high_risk,Base case (months 1-12),0.23500000000000001,0.24,38264.37790762913
+base_high_risk,Base case (months 1-12),0.23600000000000002,0.24,38461.67313276797
+base_high_risk,Base case (months 1-12),0.23700000000000002,0.24,38658.96835790683
+base_high_risk,Base case (months 1-12),0.23800000000000002,0.24,38856.26358304567
+base_high_risk,Base case (months 1-12),0.23900000000000002,0.24,39053.55880818453
+base_high_risk,Base case (months 1-12),0.24,0.24,39250.85403332337
+base_high_risk,Base case (months 1-12),0.241,0.24,39448.14925846222
+base_high_risk,Base case (months 1-12),0.242,0.24,39645.44448360105
+base_high_risk,Base case (months 1-12),0.243,0.24,39842.7397087399
+base_high_risk,Base case (months 1-12),0.244,0.24,40040.03493387876
+base_high_risk,Base case (months 1-12),0.245,0.24,40237.3301590176
+base_high_risk,Base case (months 1-12),0.246,0.24,40434.62538415645
+base_high_risk,Base case (months 1-12),0.247,0.24,40631.920609295295
+base_high_risk,Base case (months 1-12),0.248,0.24,40829.21583443415
+base_high_risk,Base case (months 1-12),0.249,0.24,41026.511059572986
+base_high_risk,Base case (months 1-12),0.25,0.24,41223.80628471185
+base_high_risk,Base case (months 1-12),0.251,0.24,41421.10150985068
+base_high_risk,Base case (months 1-12),0.252,0.24,41618.39673498953
+base_high_risk,Base case (months 1-12),0.253,0.24,41815.69196012839
+base_high_risk,Base case (months 1-12),0.254,0.24,42012.98718526724
+base_high_risk,Base case (months 1-12),0.255,0.24,42210.28241040606
+base_high_risk,Base case (months 1-12),0.256,0.24,42407.57763554492
+base_high_risk,Base case (months 1-12),0.257,0.24,42604.87286068377
+base_high_risk,Base case (months 1-12),0.258,0.24,42802.16808582263
+base_high_risk,Base case (months 1-12),0.259,0.24,42999.46331096147
+base_high_risk,Base case (months 1-12),0.26,0.24,43196.758536100315
+base_high_risk,Base case (months 1-12),0.261,0.24,43394.053761239156
+base_high_risk,Base case (months 1-12),0.262,0.24,43591.34898637801
+base_high_risk,Base case (months 1-12),0.263,0.24,43788.64421151686
+base_high_risk,Base case (months 1-12),0.264,0.24,43985.9394366557
+base_high_risk,Base case (months 1-12),0.265,0.24,44183.234661794544
+base_high_risk,Base case (months 1-12),0.266,0.24,44380.52988693339
+base_high_risk,Base case (months 1-12),0.267,0.24,44577.82511207224
+base_high_risk,Base case (months 1-12),0.268,0.24,44775.12033721109
+base_high_risk,Base case (months 1-12),0.269,0.24,44972.41556234995
+base_high_risk,Base case (months 1-12),0.27,0.24,45169.710787488795
+base_high_risk,Base case (months 1-12),0.271,0.24,45367.00601262762
+base_high_risk,Base case (months 1-12),0.272,0.24,45564.30123776648
+base_high_risk,Base case (months 1-12),0.273,0.24,45761.596462905334
+base_high_risk,Base case (months 1-12),0.274,0.24,45958.89168804418
+base_high_risk,Base case (months 1-12),0.275,0.24,46156.186913183024
+base_high_risk,Base case (months 1-12),0.276,0.24,46353.482138321866
+base_high_risk,Base case (months 1-12),0.277,0.24,46550.777363460715
+base_high_risk,Base case (months 1-12),0.278,0.24,46748.072588599556
+base_high_risk,Base case (months 1-12),0.279,0.24,46945.36781373841
+base_high_risk,Base case (months 1-12),0.28,0.24,47142.66303887727
+base_high_risk,Base case (months 1-12),0.281,0.24,47339.95826401611
+base_high_risk,Base case (months 1-12),0.28200000000000003,0.24,47537.25348915496
+base_high_risk,Base case (months 1-12),0.28300000000000003,0.24,47734.5487142938
+base_high_risk,Base case (months 1-12),0.28400000000000003,0.24,47931.84393943264
+base_high_risk,Base case (months 1-12),0.28500000000000003,0.24,48129.1391645715
+base_high_risk,Base case (months 1-12),0.28600000000000003,0.24,48326.434389710346
+base_high_risk,Base case (months 1-12),0.28700000000000003,0.24,48523.729614849195
+base_high_risk,Base case (months 1-12),0.28800000000000003,0.24,48721.02483998805
+base_high_risk,Base case (months 1-12),0.289,0.24,48918.32006512689
+base_high_risk,Base case (months 1-12),0.29,0.24,49115.61529026573
+base_high_risk,Base case (months 1-12),0.291,0.24,49312.910515404576
+base_high_risk,Base case (months 1-12),0.292,0.24,49510.20574054342
+base_high_risk,Base case (months 1-12),0.293,0.24,49707.50096568228
+base_high_risk,Base case (months 1-12),0.294,0.24,49904.796190821115
+base_high_risk,Base case (months 1-12),0.295,0.24,50102.091415959956
+base_high_risk,Base case (months 1-12),0.296,0.24,50299.38664109881
+base_high_risk,Base case (months 1-12),0.297,0.24,50496.68186623765
+base_high_risk,Base case (months 1-12),0.298,0.24,50693.97709137651
+base_high_risk,Base case (months 1-12),0.299,0.24,50891.27231651536
+base_high_risk,Base case (months 1-12),0.3,0.24,51088.56754165419
+high_risk_postacute_through6m,Through 6 months only,0.0,0.24,-8100.0
+high_risk_postacute_through6m,Through 6 months only,0.001,0.24,-7950.160029861152
+high_risk_postacute_through6m,Through 6 months only,0.002,0.24,-7800.320059722304
+high_risk_postacute_through6m,Through 6 months only,0.003,0.24,-7650.480089583463
+high_risk_postacute_through6m,Through 6 months only,0.004,0.24,-7500.640119444615
+high_risk_postacute_through6m,Through 6 months only,0.005,0.24,-7350.80014930576
+high_risk_postacute_through6m,Through 6 months only,0.006,0.24,-7200.960179166912
+high_risk_postacute_through6m,Through 6 months only,0.007,0.24,-7051.120209028071
+high_risk_postacute_through6m,Through 6 months only,0.008,0.24,-6901.280238889223
+high_risk_postacute_through6m,Through 6 months only,0.009000000000000001,0.24,-6751.440268750375
+high_risk_postacute_through6m,Through 6 months only,0.01,0.24,-6601.600298611527
+high_risk_postacute_through6m,Through 6 months only,0.011,0.24,-6451.7603284726865
+high_risk_postacute_through6m,Through 6 months only,0.012,0.24,-6301.9203583338385
+high_risk_postacute_through6m,Through 6 months only,0.013000000000000001,0.24,-6152.080388194983
+high_risk_postacute_through6m,Through 6 months only,0.014,0.24,-6002.240418056135
+high_risk_postacute_through6m,Through 6 months only,0.015,0.24,-5852.400447917287
+high_risk_postacute_through6m,Through 6 months only,0.016,0.24,-5702.5604777784465
+high_risk_postacute_through6m,Through 6 months only,0.017,0.24,-5552.7205076395985
+high_risk_postacute_through6m,Through 6 months only,0.018000000000000002,0.24,-5402.8805375007505
+high_risk_postacute_through6m,Through 6 months only,0.019,0.24,-5253.0405673619025
+high_risk_postacute_through6m,Through 6 months only,0.02,0.24,-5103.200597223062
+high_risk_postacute_through6m,Through 6 months only,0.021,0.24,-4953.3606270842065
+high_risk_postacute_through6m,Through 6 months only,0.022,0.24,-4803.5206569453585
+high_risk_postacute_through6m,Through 6 months only,0.023,0.24,-4653.6806868065105
+high_risk_postacute_through6m,Through 6 months only,0.024,0.24,-4503.84071666767
+high_risk_postacute_through6m,Through 6 months only,0.025,0.24,-4354.000746528822
+high_risk_postacute_through6m,Through 6 months only,0.026000000000000002,0.24,-4204.160776389974
+high_risk_postacute_through6m,Through 6 months only,0.027,0.24,-4054.3208062511258
+high_risk_postacute_through6m,Through 6 months only,0.028,0.24,-3904.4808361122778
+high_risk_postacute_through6m,Through 6 months only,0.029,0.24,-3754.6408659734298
+high_risk_postacute_through6m,Through 6 months only,0.03,0.24,-3604.8008958345745
+high_risk_postacute_through6m,Through 6 months only,0.031,0.24,-3454.9609256957337
+high_risk_postacute_through6m,Through 6 months only,0.032,0.24,-3305.1209555568785
+high_risk_postacute_through6m,Through 6 months only,0.033,0.24,-3155.2809854180377
+high_risk_postacute_through6m,Through 6 months only,0.034,0.24,-3005.441015279197
+high_risk_postacute_through6m,Through 6 months only,0.035,0.24,-2855.6010451403417
+high_risk_postacute_through6m,Through 6 months only,0.036000000000000004,0.24,-2705.7610750014937
+high_risk_postacute_through6m,Through 6 months only,0.037,0.24,-2555.9211048626457
+high_risk_postacute_through6m,Through 6 months only,0.038,0.24,-2406.0811347237977
+high_risk_postacute_through6m,Through 6 months only,0.039,0.24,-2256.2411645849497
+high_risk_postacute_through6m,Through 6 months only,0.04,0.24,-2106.4011944461017
+high_risk_postacute_through6m,Through 6 months only,0.041,0.24,-1956.5612243072537
+high_risk_postacute_through6m,Through 6 months only,0.042,0.24,-1806.721254168413
+high_risk_postacute_through6m,Through 6 months only,0.043000000000000003,0.24,-1656.881284029565
+high_risk_postacute_through6m,Through 6 months only,0.044,0.24,-1507.041313890717
+high_risk_postacute_through6m,Through 6 months only,0.045,0.24,-1357.2013437518617
+high_risk_postacute_through6m,Through 6 months only,0.046,0.24,-1207.361373613021
+high_risk_postacute_through6m,Through 6 months only,0.047,0.24,-1057.521403474173
+high_risk_postacute_through6m,Through 6 months only,0.048,0.24,-907.681433335325
+high_risk_postacute_through6m,Through 6 months only,0.049,0.24,-757.841463196477
+high_risk_postacute_through6m,Through 6 months only,0.05,0.24,-608.001493057629
+high_risk_postacute_through6m,Through 6 months only,0.051000000000000004,0.24,-458.16152291878825
+high_risk_postacute_through6m,Through 6 months only,0.052000000000000005,0.24,-308.32155277994025
+high_risk_postacute_through6m,Through 6 months only,0.053,0.24,-158.48158264108497
+high_risk_postacute_through6m,Through 6 months only,0.054,0.24,-8.641612502236967
+high_risk_postacute_through6m,Through 6 months only,0.055,0.24,141.19835763660376
+high_risk_postacute_through6m,Through 6 months only,0.056,0.24,291.03832777545176
+high_risk_postacute_through6m,Through 6 months only,0.057,0.24,440.87829791429976
+high_risk_postacute_through6m,Through 6 months only,0.058,0.24,590.7182680531478
+high_risk_postacute_through6m,Through 6 months only,0.059000000000000004,0.24,740.5582381919885
+high_risk_postacute_through6m,Through 6 months only,0.06,0.24,890.3982083308365
+high_risk_postacute_through6m,Through 6 months only,0.061,0.24,1040.2381784696918
+high_risk_postacute_through6m,Through 6 months only,0.062,0.24,1190.0781486085398
+high_risk_postacute_through6m,Through 6 months only,0.063,0.24,1339.9181187473878
+high_risk_postacute_through6m,Through 6 months only,0.064,0.24,1489.7580888862285
+high_risk_postacute_through6m,Through 6 months only,0.065,0.24,1639.5980590250765
+high_risk_postacute_through6m,Through 6 months only,0.066,0.24,1789.4380291639245
+high_risk_postacute_through6m,Through 6 months only,0.067,0.24,1939.2779993027725
+high_risk_postacute_through6m,Through 6 months only,0.068,0.24,2089.1179694416132
+high_risk_postacute_through6m,Through 6 months only,0.069,0.24,2238.9579395804685
+high_risk_postacute_through6m,Through 6 months only,0.07,0.24,2388.7979097193165
+high_risk_postacute_through6m,Through 6 months only,0.07100000000000001,0.24,2538.6378798581645
+high_risk_postacute_through6m,Through 6 months only,0.07200000000000001,0.24,2688.4778499970053
+high_risk_postacute_through6m,Through 6 months only,0.073,0.24,2838.3178201358533
+high_risk_postacute_through6m,Through 6 months only,0.074,0.24,2988.1577902747013
+high_risk_postacute_through6m,Through 6 months only,0.075,0.24,3137.9977604135493
+high_risk_postacute_through6m,Through 6 months only,0.076,0.24,3287.8377305523973
+high_risk_postacute_through6m,Through 6 months only,0.077,0.24,3437.6777006912453
+high_risk_postacute_through6m,Through 6 months only,0.078,0.24,3587.5176708300933
+high_risk_postacute_through6m,Through 6 months only,0.079,0.24,3737.3576409689413
+high_risk_postacute_through6m,Through 6 months only,0.08,0.24,3887.1976111077893
+high_risk_postacute_through6m,Through 6 months only,0.081,0.24,4037.0375812466373
+high_risk_postacute_through6m,Through 6 months only,0.082,0.24,4186.877551385478
+high_risk_postacute_through6m,Through 6 months only,0.083,0.24,4336.717521524333
+high_risk_postacute_through6m,Through 6 months only,0.084,0.24,4486.557491663174
+high_risk_postacute_through6m,Through 6 months only,0.085,0.24,4636.397461802022
+high_risk_postacute_through6m,Through 6 months only,0.08600000000000001,0.24,4786.23743194087
+high_risk_postacute_through6m,Through 6 months only,0.08700000000000001,0.24,4936.077402079718
+high_risk_postacute_through6m,Through 6 months only,0.088,0.24,5085.917372218566
+high_risk_postacute_through6m,Through 6 months only,0.089,0.24,5235.757342357414
+high_risk_postacute_through6m,Through 6 months only,0.09,0.24,5385.597312496255
+high_risk_postacute_through6m,Through 6 months only,0.091,0.24,5535.437282635103
+high_risk_postacute_through6m,Through 6 months only,0.092,0.24,5685.277252773958
+high_risk_postacute_through6m,Through 6 months only,0.093,0.24,5835.117222912799
+high_risk_postacute_through6m,Through 6 months only,0.094,0.24,5984.957193051654
+high_risk_postacute_through6m,Through 6 months only,0.095,0.24,6134.797163190495
+high_risk_postacute_through6m,Through 6 months only,0.096,0.24,6284.63713332935
+high_risk_postacute_through6m,Through 6 months only,0.097,0.24,6434.477103468198
+high_risk_postacute_through6m,Through 6 months only,0.098,0.24,6584.317073607046
+high_risk_postacute_through6m,Through 6 months only,0.099,0.24,6734.157043745887
+high_risk_postacute_through6m,Through 6 months only,0.1,0.24,6883.997013884742
+high_risk_postacute_through6m,Through 6 months only,0.101,0.24,7033.83698402359
+high_risk_postacute_through6m,Through 6 months only,0.10200000000000001,0.24,7183.676954162438
+high_risk_postacute_through6m,Through 6 months only,0.10300000000000001,0.24,7333.516924301279
+high_risk_postacute_through6m,Through 6 months only,0.10400000000000001,0.24,7483.356894440127
+high_risk_postacute_through6m,Through 6 months only,0.105,0.24,7633.196864578975
+high_risk_postacute_through6m,Through 6 months only,0.106,0.24,7783.036834717823
+high_risk_postacute_through6m,Through 6 months only,0.107,0.24,7932.8768048566635
+high_risk_postacute_through6m,Through 6 months only,0.108,0.24,8082.7167749955115
+high_risk_postacute_through6m,Through 6 months only,0.109,0.24,8232.556745134352
+high_risk_postacute_through6m,Through 6 months only,0.11,0.24,8382.396715273215
+high_risk_postacute_through6m,Through 6 months only,0.111,0.24,8532.236685412063
+high_risk_postacute_through6m,Through 6 months only,0.112,0.24,8682.076655550896
+high_risk_postacute_through6m,Through 6 months only,0.113,0.24,8831.916625689752
+high_risk_postacute_through6m,Through 6 months only,0.114,0.24,8981.7565958286
+high_risk_postacute_through6m,Through 6 months only,0.115,0.24,9131.596565967448
+high_risk_postacute_through6m,Through 6 months only,0.116,0.24,9281.436536106288
+high_risk_postacute_through6m,Through 6 months only,0.117,0.24,9431.276506245144
+high_risk_postacute_through6m,Through 6 months only,0.11800000000000001,0.24,9581.116476383992
+high_risk_postacute_through6m,Through 6 months only,0.11900000000000001,0.24,9730.95644652284
+high_risk_postacute_through6m,Through 6 months only,0.12,0.24,9880.79641666168
+high_risk_postacute_through6m,Through 6 months only,0.121,0.24,10030.636386800528
+high_risk_postacute_through6m,Through 6 months only,0.122,0.24,10180.476356939376
+high_risk_postacute_through6m,Through 6 months only,0.123,0.24,10330.316327078224
+high_risk_postacute_through6m,Through 6 months only,0.124,0.24,10480.156297217072
+high_risk_postacute_through6m,Through 6 months only,0.125,0.24,10629.996267355913
+high_risk_postacute_through6m,Through 6 months only,0.126,0.24,10779.836237494768
+high_risk_postacute_through6m,Through 6 months only,0.127,0.24,10929.676207633616
+high_risk_postacute_through6m,Through 6 months only,0.128,0.24,11079.516177772464
+high_risk_postacute_through6m,Through 6 months only,0.129,0.24,11229.356147911305
+high_risk_postacute_through6m,Through 6 months only,0.13,0.24,11379.196118050153
+high_risk_postacute_through6m,Through 6 months only,0.131,0.24,11529.036088189001
+high_risk_postacute_through6m,Through 6 months only,0.132,0.24,11678.876058327849
+high_risk_postacute_through6m,Through 6 months only,0.133,0.24,11828.716028466697
+high_risk_postacute_through6m,Through 6 months only,0.134,0.24,11978.555998605545
+high_risk_postacute_through6m,Through 6 months only,0.135,0.24,12128.395968744393
+high_risk_postacute_through6m,Through 6 months only,0.136,0.24,12278.235938883241
+high_risk_postacute_through6m,Through 6 months only,0.137,0.24,12428.075909022089
+high_risk_postacute_through6m,Through 6 months only,0.138,0.24,12577.915879160937
+high_risk_postacute_through6m,Through 6 months only,0.139,0.24,12727.755849299778
+high_risk_postacute_through6m,Through 6 months only,0.14,0.24,12877.595819438633
+high_risk_postacute_through6m,Through 6 months only,0.14100000000000001,0.24,13027.435789577488
+high_risk_postacute_through6m,Through 6 months only,0.14200000000000002,0.24,13177.275759716329
+high_risk_postacute_through6m,Through 6 months only,0.14300000000000002,0.24,13327.11572985517
+high_risk_postacute_through6m,Through 6 months only,0.14400000000000002,0.24,13476.955699994025
+high_risk_postacute_through6m,Through 6 months only,0.145,0.24,13626.795670132866
+high_risk_postacute_through6m,Through 6 months only,0.146,0.24,13776.635640271707
+high_risk_postacute_through6m,Through 6 months only,0.147,0.24,13926.475610410562
+high_risk_postacute_through6m,Through 6 months only,0.148,0.24,14076.315580549403
+high_risk_postacute_through6m,Through 6 months only,0.149,0.24,14226.15555068825
+high_risk_postacute_through6m,Through 6 months only,0.15,0.24,14375.995520827106
+high_risk_postacute_through6m,Through 6 months only,0.151,0.24,14525.835490965954
+high_risk_postacute_through6m,Through 6 months only,0.152,0.24,14675.675461104795
+high_risk_postacute_through6m,Through 6 months only,0.153,0.24,14825.51543124365
+high_risk_postacute_through6m,Through 6 months only,0.154,0.24,14975.35540138249
+high_risk_postacute_through6m,Through 6 months only,0.155,0.24,15125.195371521339
+high_risk_postacute_through6m,Through 6 months only,0.156,0.24,15275.035341660187
+high_risk_postacute_through6m,Through 6 months only,0.157,0.24,15424.875311799035
+high_risk_postacute_through6m,Through 6 months only,0.158,0.24,15574.715281937883
+high_risk_postacute_through6m,Through 6 months only,0.159,0.24,15724.555252076723
+high_risk_postacute_through6m,Through 6 months only,0.16,0.24,15874.395222215579
+high_risk_postacute_through6m,Through 6 months only,0.161,0.24,16024.23519235442
+high_risk_postacute_through6m,Through 6 months only,0.162,0.24,16174.075162493275
+high_risk_postacute_through6m,Through 6 months only,0.163,0.24,16323.915132632115
+high_risk_postacute_through6m,Through 6 months only,0.164,0.24,16473.755102770956
+high_risk_postacute_through6m,Through 6 months only,0.165,0.24,16623.59507290981
+high_risk_postacute_through6m,Through 6 months only,0.166,0.24,16773.435043048667
+high_risk_postacute_through6m,Through 6 months only,0.167,0.24,16923.275013187515
+high_risk_postacute_through6m,Through 6 months only,0.168,0.24,17073.11498332635
+high_risk_postacute_through6m,Through 6 months only,0.169,0.24,17222.954953465203
+high_risk_postacute_through6m,Through 6 months only,0.17,0.24,17372.794923604048
+high_risk_postacute_through6m,Through 6 months only,0.171,0.24,17522.6348937429
+high_risk_postacute_through6m,Through 6 months only,0.17200000000000001,0.24,17672.474863881736
+high_risk_postacute_through6m,Through 6 months only,0.17300000000000001,0.24,17822.3148340206
+high_risk_postacute_through6m,Through 6 months only,0.17400000000000002,0.24,17972.15480415944
+high_risk_postacute_through6m,Through 6 months only,0.17500000000000002,0.24,18121.994774298288
+high_risk_postacute_through6m,Through 6 months only,0.176,0.24,18271.83474443714
+high_risk_postacute_through6m,Through 6 months only,0.177,0.24,18421.67471457598
+high_risk_postacute_through6m,Through 6 months only,0.178,0.24,18571.514684714824
+high_risk_postacute_through6m,Through 6 months only,0.179,0.24,18721.354654853672
+high_risk_postacute_through6m,Through 6 months only,0.18,0.24,18871.19462499252
+high_risk_postacute_through6m,Through 6 months only,0.181,0.24,19021.03459513136
+high_risk_postacute_through6m,Through 6 months only,0.182,0.24,19170.874565270205
+high_risk_postacute_through6m,Through 6 months only,0.183,0.24,19320.714535409064
+high_risk_postacute_through6m,Through 6 months only,0.184,0.24,19470.554505547916
+high_risk_postacute_through6m,Through 6 months only,0.185,0.24,19620.394475686757
+high_risk_postacute_through6m,Through 6 months only,0.186,0.24,19770.234445825605
+high_risk_postacute_through6m,Through 6 months only,0.187,0.24,19920.074415964453
+high_risk_postacute_through6m,Through 6 months only,0.188,0.24,20069.914386103304
+high_risk_postacute_through6m,Through 6 months only,0.189,0.24,20219.75435624215
+high_risk_postacute_through6m,Through 6 months only,0.19,0.24,20369.594326380997
+high_risk_postacute_through6m,Through 6 months only,0.191,0.24,20519.434296519845
+high_risk_postacute_through6m,Through 6 months only,0.192,0.24,20669.274266658693
+high_risk_postacute_through6m,Through 6 months only,0.193,0.24,20819.114236797537
+high_risk_postacute_through6m,Through 6 months only,0.194,0.24,20968.954206936385
+high_risk_postacute_through6m,Through 6 months only,0.195,0.24,21118.794177075237
+high_risk_postacute_through6m,Through 6 months only,0.196,0.24,21268.634147214085
+high_risk_postacute_through6m,Through 6 months only,0.197,0.24,21418.474117352936
+high_risk_postacute_through6m,Through 6 months only,0.198,0.24,21568.31408749177
+high_risk_postacute_through6m,Through 6 months only,0.199,0.24,21718.154057630618
+high_risk_postacute_through6m,Through 6 months only,0.2,0.24,21867.99402776947
+high_risk_postacute_through6m,Through 6 months only,0.201,0.24,22017.833997908318
+high_risk_postacute_through6m,Through 6 months only,0.202,0.24,22167.67396804717
+high_risk_postacute_through6m,Through 6 months only,0.203,0.24,22317.513938186014
+high_risk_postacute_through6m,Through 6 months only,0.20400000000000001,0.24,22467.353908324858
+high_risk_postacute_through6m,Through 6 months only,0.20500000000000002,0.24,22617.193878463702
+high_risk_postacute_through6m,Through 6 months only,0.20600000000000002,0.24,22767.033848602554
+high_risk_postacute_through6m,Through 6 months only,0.20700000000000002,0.24,22916.8738187414
+high_risk_postacute_through6m,Through 6 months only,0.20800000000000002,0.24,23066.71378888025
+high_risk_postacute_through6m,Through 6 months only,0.209,0.24,23216.553759019094
+high_risk_postacute_through6m,Through 6 months only,0.21,0.24,23366.393729157942
+high_risk_postacute_through6m,Through 6 months only,0.211,0.24,23516.233699296787
+high_risk_postacute_through6m,Through 6 months only,0.212,0.24,23666.073669435635
+high_risk_postacute_through6m,Through 6 months only,0.213,0.24,23815.91363957449
+high_risk_postacute_through6m,Through 6 months only,0.214,0.24,23965.75360971334
+high_risk_postacute_through6m,Through 6 months only,0.215,0.24,24115.593579852182
+high_risk_postacute_through6m,Through 6 months only,0.216,0.24,24265.433549991027
+high_risk_postacute_through6m,Through 6 months only,0.217,0.24,24415.273520129875
+high_risk_postacute_through6m,Through 6 months only,0.218,0.24,24565.11349026872
+high_risk_postacute_through6m,Through 6 months only,0.219,0.24,24714.95346040757
+high_risk_postacute_through6m,Through 6 months only,0.22,0.24,24864.79343054642
+high_risk_postacute_through6m,Through 6 months only,0.221,0.24,25014.633400685256
+high_risk_postacute_through6m,Through 6 months only,0.222,0.24,25164.473370824104
+high_risk_postacute_through6m,Through 6 months only,0.223,0.24,25314.313340962963
+high_risk_postacute_through6m,Through 6 months only,0.224,0.24,25464.153311101796
+high_risk_postacute_through6m,Through 6 months only,0.225,0.24,25613.99328124065
+high_risk_postacute_through6m,Through 6 months only,0.226,0.24,25763.8332513795
+high_risk_postacute_through6m,Through 6 months only,0.227,0.24,25913.67322151835
+high_risk_postacute_through6m,Through 6 months only,0.228,0.24,26063.5131916572
+high_risk_postacute_through6m,Through 6 months only,0.229,0.24,26213.353161796033
+high_risk_postacute_through6m,Through 6 months only,0.23,0.24,26363.19313193489
+high_risk_postacute_through6m,Through 6 months only,0.231,0.24,26513.033102073743
+high_risk_postacute_through6m,Through 6 months only,0.232,0.24,26662.873072212587
+high_risk_postacute_through6m,Through 6 months only,0.233,0.24,26812.71304235144
+high_risk_postacute_through6m,Through 6 months only,0.234,0.24,26962.553012490283
+high_risk_postacute_through6m,Through 6 months only,0.23500000000000001,0.24,27112.39298262913
+high_risk_postacute_through6m,Through 6 months only,0.23600000000000002,0.24,27262.232952767972
+high_risk_postacute_through6m,Through 6 months only,0.23700000000000002,0.24,27412.07292290683
+high_risk_postacute_through6m,Through 6 months only,0.23800000000000002,0.24,27561.91289304566
+high_risk_postacute_through6m,Through 6 months only,0.23900000000000002,0.24,27711.75286318452
+high_risk_postacute_through6m,Through 6 months only,0.24,0.24,27861.592833323368
+high_risk_postacute_through6m,Through 6 months only,0.241,0.24,28011.43280346222
+high_risk_postacute_through6m,Through 6 months only,0.242,0.24,28161.272773601057
+high_risk_postacute_through6m,Through 6 months only,0.243,0.24,28311.1127437399
+high_risk_postacute_through6m,Through 6 months only,0.244,0.24,28460.952713878753
+high_risk_postacute_through6m,Through 6 months only,0.245,0.24,28610.792684017597
+high_risk_postacute_through6m,Through 6 months only,0.246,0.24,28760.632654156452
+high_risk_postacute_through6m,Through 6 months only,0.247,0.24,28910.472624295293
+high_risk_postacute_through6m,Through 6 months only,0.248,0.24,29060.312594434145
+high_risk_postacute_through6m,Through 6 months only,0.249,0.24,29210.15256457299
+high_risk_postacute_through6m,Through 6 months only,0.25,0.24,29359.992534711837
+high_risk_postacute_through6m,Through 6 months only,0.251,0.24,29509.832504850678
+high_risk_postacute_through6m,Through 6 months only,0.252,0.24,29659.67247498953
+high_risk_postacute_through6m,Through 6 months only,0.253,0.24,29809.512445128385
+high_risk_postacute_through6m,Through 6 months only,0.254,0.24,29959.352415267225
+high_risk_postacute_through6m,Through 6 months only,0.255,0.24,30109.19238540607
+high_risk_postacute_through6m,Through 6 months only,0.256,0.24,30259.03235554492
+high_risk_postacute_through6m,Through 6 months only,0.257,0.24,30408.872325683773
+high_risk_postacute_through6m,Through 6 months only,0.258,0.24,30558.712295822617
+high_risk_postacute_through6m,Through 6 months only,0.259,0.24,30708.552265961465
+high_risk_postacute_through6m,Through 6 months only,0.26,0.24,30858.39223610031
+high_risk_postacute_through6m,Through 6 months only,0.261,0.24,31008.23220623915
+high_risk_postacute_through6m,Through 6 months only,0.262,0.24,31158.072176378002
+high_risk_postacute_through6m,Through 6 months only,0.263,0.24,31307.912146516857
+high_risk_postacute_through6m,Through 6 months only,0.264,0.24,31457.752116655698
+high_risk_postacute_through6m,Through 6 months only,0.265,0.24,31607.592086794542
+high_risk_postacute_through6m,Through 6 months only,0.266,0.24,31757.43205693339
+high_risk_postacute_through6m,Through 6 months only,0.267,0.24,31907.27202707225
+high_risk_postacute_through6m,Through 6 months only,0.268,0.24,32057.111997211086
+high_risk_postacute_through6m,Through 6 months only,0.269,0.24,32206.951967349934
+high_risk_postacute_through6m,Through 6 months only,0.27,0.24,32356.79193748879
+high_risk_postacute_through6m,Through 6 months only,0.271,0.24,32506.631907627638
+high_risk_postacute_through6m,Through 6 months only,0.272,0.24,32656.47187776648
+high_risk_postacute_through6m,Through 6 months only,0.273,0.24,32806.31184790534
+high_risk_postacute_through6m,Through 6 months only,0.274,0.24,32956.15181804418
+high_risk_postacute_through6m,Through 6 months only,0.275,0.24,33105.99178818303
+high_risk_postacute_through6m,Through 6 months only,0.276,0.24,33255.831758321874
+high_risk_postacute_through6m,Through 6 months only,0.277,0.24,33405.671728460715
+high_risk_postacute_through6m,Through 6 months only,0.278,0.24,33555.51169859956
+high_risk_postacute_through6m,Through 6 months only,0.279,0.24,33705.35166873841
+high_risk_postacute_through6m,Through 6 months only,0.28,0.24,33855.191638877266
+high_risk_postacute_through6m,Through 6 months only,0.281,0.24,34005.03160901611
+high_risk_postacute_through6m,Through 6 months only,0.28200000000000003,0.24,34154.871579154955
+high_risk_postacute_through6m,Through 6 months only,0.28300000000000003,0.24,34304.7115492938
+high_risk_postacute_through6m,Through 6 months only,0.28400000000000003,0.24,34454.55151943265
+high_risk_postacute_through6m,Through 6 months only,0.28500000000000003,0.24,34604.39148957149
+high_risk_postacute_through6m,Through 6 months only,0.28600000000000003,0.24,34754.23145971035
+high_risk_postacute_through6m,Through 6 months only,0.28700000000000003,0.24,34904.07142984919
+high_risk_postacute_through6m,Through 6 months only,0.28800000000000003,0.24,35053.91139998804
+high_risk_postacute_through6m,Through 6 months only,0.289,0.24,35203.75137012689
+high_risk_postacute_through6m,Through 6 months only,0.29,0.24,35353.59134026572
+high_risk_postacute_through6m,Through 6 months only,0.291,0.24,35503.43131040458
+high_risk_postacute_through6m,Through 6 months only,0.292,0.24,35653.27128054342
+high_risk_postacute_through6m,Through 6 months only,0.293,0.24,35803.11125068227
+high_risk_postacute_through6m,Through 6 months only,0.294,0.24,35952.951220821116
+high_risk_postacute_through6m,Through 6 months only,0.295,0.24,36102.791190959964
+high_risk_postacute_through6m,Through 6 months only,0.296,0.24,36252.63116109881
+high_risk_postacute_through6m,Through 6 months only,0.297,0.24,36402.47113123765
+high_risk_postacute_through6m,Through 6 months only,0.298,0.24,36552.31110137651
+high_risk_postacute_through6m,Through 6 months only,0.299,0.24,36702.15107151535
+high_risk_postacute_through6m,Through 6 months only,0.3,0.24,36851.9910416542
+high_risk_postacute_half,Halved,0.0,0.24,-8100.0
+high_risk_postacute_half,Halved,0.001,0.24,-7963.922053811155
+high_risk_postacute_half,Halved,0.002,0.24,-7827.8441076223025
+high_risk_postacute_half,Halved,0.003,0.24,-7691.766161433465
+high_risk_postacute_half,Halved,0.004,0.24,-7555.688215244612
+high_risk_postacute_half,Halved,0.005,0.24,-7419.61026905576
+high_risk_postacute_half,Halved,0.006,0.24,-7283.532322866908
+high_risk_postacute_half,Halved,0.007,0.24,-7147.45437667807
+high_risk_postacute_half,Halved,0.008,0.24,-7011.376430489225
+high_risk_postacute_half,Halved,0.009000000000000001,0.24,-6875.298484300372
+high_risk_postacute_half,Halved,0.01,0.24,-6739.220538111527
+high_risk_postacute_half,Halved,0.011,0.24,-6603.142591922682
+high_risk_postacute_half,Halved,0.012,0.24,-6467.064645733837
+high_risk_postacute_half,Halved,0.013000000000000001,0.24,-6330.986699544985
+high_risk_postacute_half,Halved,0.014,0.24,-6194.908753356132
+high_risk_postacute_half,Halved,0.015,0.24,-6058.830807167287
+high_risk_postacute_half,Halved,0.016,0.24,-5922.752860978442
+high_risk_postacute_half,Halved,0.017,0.24,-5786.674914789597
+high_risk_postacute_half,Halved,0.018000000000000002,0.24,-5650.596968600745
+high_risk_postacute_half,Halved,0.019,0.24,-5514.5190224119
+high_risk_postacute_half,Halved,0.02,0.24,-5378.441076223062
+high_risk_postacute_half,Halved,0.021,0.24,-5242.363130034202
+high_risk_postacute_half,Halved,0.022,0.24,-5106.285183845357
+high_risk_postacute_half,Halved,0.023,0.24,-4970.207237656505
+high_risk_postacute_half,Halved,0.024,0.24,-4834.129291467667
+high_risk_postacute_half,Halved,0.025,0.24,-4698.051345278815
+high_risk_postacute_half,Halved,0.026000000000000002,0.24,-4561.9733990899695
+high_risk_postacute_half,Halved,0.027,0.24,-4425.895452901124
+high_risk_postacute_half,Halved,0.028,0.24,-4289.817506712272
+high_risk_postacute_half,Halved,0.029,0.24,-4153.739560523427
+high_risk_postacute_half,Halved,0.03,0.24,-4017.6616143345746
+high_risk_postacute_half,Halved,0.031,0.24,-3881.5836681457295
+high_risk_postacute_half,Halved,0.032,0.24,-3745.5057219568844
+high_risk_postacute_half,Halved,0.033,0.24,-3609.4277757680393
+high_risk_postacute_half,Halved,0.034,0.24,-3473.349829579194
+high_risk_postacute_half,Halved,0.035,0.24,-3337.271883390342
+high_risk_postacute_half,Halved,0.036000000000000004,0.24,-3201.1939372014967
+high_risk_postacute_half,Halved,0.037,0.24,-3065.1159910126516
+high_risk_postacute_half,Halved,0.038,0.24,-2929.0380448237993
+high_risk_postacute_half,Halved,0.039,0.24,-2792.960098634954
+high_risk_postacute_half,Halved,0.04,0.24,-2656.882152446102
+high_risk_postacute_half,Halved,0.041,0.24,-2520.8042062572567
+high_risk_postacute_half,Halved,0.042,0.24,-2384.726260068419
+high_risk_postacute_half,Halved,0.043000000000000003,0.24,-2248.6483138795666
+high_risk_postacute_half,Halved,0.044,0.24,-2112.5703676907215
+high_risk_postacute_half,Halved,0.045,0.24,-1976.492421501869
+high_risk_postacute_half,Halved,0.046,0.24,-1840.414475313024
+high_risk_postacute_half,Halved,0.047,0.24,-1704.3365291241716
+high_risk_postacute_half,Halved,0.048,0.24,-1568.2585829353266
+high_risk_postacute_half,Halved,0.049,0.24,-1432.1806367464815
+high_risk_postacute_half,Halved,0.05,0.24,-1296.102690557629
+high_risk_postacute_half,Halved,0.051000000000000004,0.24,-1160.0247443687913
+high_risk_postacute_half,Halved,0.052000000000000005,0.24,-1023.9467981799389
+high_risk_postacute_half,Halved,0.053,0.24,-887.8688519910866
+high_risk_postacute_half,Halved,0.054,0.24,-751.7909058022342
+high_risk_postacute_half,Halved,0.055,0.24,-615.7129596133964
+high_risk_postacute_half,Halved,0.056,0.24,-479.6350134245513
+high_risk_postacute_half,Halved,0.057,0.24,-343.5570672356989
+high_risk_postacute_half,Halved,0.058,0.24,-207.47912104685383
+high_risk_postacute_half,Halved,0.059000000000000004,0.24,-71.40117485800874
+high_risk_postacute_half,Halved,0.06,0.24,64.67677133083635
+high_risk_postacute_half,Halved,0.061,0.24,200.7547175196887
+high_risk_postacute_half,Halved,0.062,0.24,336.8326637085411
+high_risk_postacute_half,Halved,0.063,0.24,472.91060989738617
+high_risk_postacute_half,Halved,0.064,0.24,608.9885560862313
+high_risk_postacute_half,Halved,0.065,0.24,745.0665022750763
+high_risk_postacute_half,Halved,0.066,0.24,881.1444484639214
+high_risk_postacute_half,Halved,0.067,0.24,1017.2223946527738
+high_risk_postacute_half,Halved,0.068,0.24,1153.3003408416116
+high_risk_postacute_half,Halved,0.069,0.24,1289.3782870304713
+high_risk_postacute_half,Halved,0.07,0.24,1425.4562332193163
+high_risk_postacute_half,Halved,0.07100000000000001,0.24,1561.5341794081687
+high_risk_postacute_half,Halved,0.07200000000000001,0.24,1697.6121255970065
+high_risk_postacute_half,Halved,0.073,0.24,1833.6900717858516
+high_risk_postacute_half,Halved,0.074,0.24,1969.768017974704
+high_risk_postacute_half,Halved,0.075,0.24,2105.845964163549
+high_risk_postacute_half,Halved,0.076,0.24,2241.923910352394
+high_risk_postacute_half,Halved,0.077,0.24,2378.0018565412465
+high_risk_postacute_half,Halved,0.078,0.24,2514.0798027300916
+high_risk_postacute_half,Halved,0.079,0.24,2650.157748918944
+high_risk_postacute_half,Halved,0.08,0.24,2786.235695107789
+high_risk_postacute_half,Halved,0.081,0.24,2922.313641296627
+high_risk_postacute_half,Halved,0.082,0.24,3058.3915874854792
+high_risk_postacute_half,Halved,0.083,0.24,3194.4695336743316
+high_risk_postacute_half,Halved,0.084,0.24,3330.5474798631767
+high_risk_postacute_half,Halved,0.085,0.24,3466.625426052022
+high_risk_postacute_half,Halved,0.08600000000000001,0.24,3602.703372240874
+high_risk_postacute_half,Halved,0.08700000000000001,0.24,3738.7813184297192
+high_risk_postacute_half,Halved,0.088,0.24,3874.8592646185716
+high_risk_postacute_half,Halved,0.089,0.24,4010.9372108074167
+high_risk_postacute_half,Halved,0.09,0.24,4147.0151569962545
+high_risk_postacute_half,Halved,0.091,0.24,4283.093103185107
+high_risk_postacute_half,Halved,0.092,0.24,4419.171049373952
+high_risk_postacute_half,Halved,0.093,0.24,4555.248995562797
+high_risk_postacute_half,Halved,0.094,0.24,4691.326941751649
+high_risk_postacute_half,Halved,0.095,0.24,4827.404887940502
+high_risk_postacute_half,Halved,0.096,0.24,4963.482834129347
+high_risk_postacute_half,Halved,0.097,0.24,5099.560780318192
+high_risk_postacute_half,Halved,0.098,0.24,5235.638726507044
+high_risk_postacute_half,Halved,0.099,0.24,5371.716672695882
+high_risk_postacute_half,Halved,0.1,0.24,5507.794618884742
+high_risk_postacute_half,Halved,0.101,0.24,5643.872565073587
+high_risk_postacute_half,Halved,0.10200000000000001,0.24,5779.950511262432
+high_risk_postacute_half,Halved,0.10300000000000001,0.24,5916.028457451277
+high_risk_postacute_half,Halved,0.10400000000000001,0.24,6052.106403640122
+high_risk_postacute_half,Halved,0.105,0.24,6188.184349828967
+high_risk_postacute_half,Halved,0.106,0.24,6324.26229601782
+high_risk_postacute_half,Halved,0.107,0.24,6460.340242206657
+high_risk_postacute_half,Halved,0.108,0.24,6596.41818839551
+high_risk_postacute_half,Halved,0.109,0.24,6732.496134584355
+high_risk_postacute_half,Halved,0.11,0.24,6868.574080773207
+high_risk_postacute_half,Halved,0.111,0.24,7004.65202696206
+high_risk_postacute_half,Halved,0.112,0.24,7140.729973150897
+high_risk_postacute_half,Halved,0.113,0.24,7276.80791933975
+high_risk_postacute_half,Halved,0.114,0.24,7412.885865528602
+high_risk_postacute_half,Halved,0.115,0.24,7548.963811717447
+high_risk_postacute_half,Halved,0.116,0.24,7685.041757906285
+high_risk_postacute_half,Halved,0.117,0.24,7821.119704095145
+high_risk_postacute_half,Halved,0.11800000000000001,0.24,7957.19765028399
+high_risk_postacute_half,Halved,0.11900000000000001,0.24,8093.275596472842
+high_risk_postacute_half,Halved,0.12,0.24,8229.35354266168
+high_risk_postacute_half,Halved,0.121,0.24,8365.431488850532
+high_risk_postacute_half,Halved,0.122,0.24,8501.509435039377
+high_risk_postacute_half,Halved,0.123,0.24,8637.587381228223
+high_risk_postacute_half,Halved,0.124,0.24,8773.665327417068
+high_risk_postacute_half,Halved,0.125,0.24,8909.743273605913
+high_risk_postacute_half,Halved,0.126,0.24,9045.821219794772
+high_risk_postacute_half,Halved,0.127,0.24,9181.899165983617
+high_risk_postacute_half,Halved,0.128,0.24,9317.977112172463
+high_risk_postacute_half,Halved,0.129,0.24,9454.055058361308
+high_risk_postacute_half,Halved,0.13,0.24,9590.133004550153
+high_risk_postacute_half,Halved,0.131,0.24,9726.210950738998
+high_risk_postacute_half,Halved,0.132,0.24,9862.28889692785
+high_risk_postacute_half,Halved,0.133,0.24,9998.366843116703
+high_risk_postacute_half,Halved,0.134,0.24,10134.444789305548
+high_risk_postacute_half,Halved,0.135,0.24,10270.522735494393
+high_risk_postacute_half,Halved,0.136,0.24,10406.600681683238
+high_risk_postacute_half,Halved,0.137,0.24,10542.67862787209
+high_risk_postacute_half,Halved,0.138,0.24,10678.756574060928
+high_risk_postacute_half,Halved,0.139,0.24,10814.83452024978
+high_risk_postacute_half,Halved,0.14,0.24,10950.912466438633
+high_risk_postacute_half,Halved,0.14100000000000001,0.24,11086.990412627485
+high_risk_postacute_half,Halved,0.14200000000000002,0.24,11223.068358816323
+high_risk_postacute_half,Halved,0.14300000000000002,0.24,11359.146305005168
+high_risk_postacute_half,Halved,0.14400000000000002,0.24,11495.22425119402
+high_risk_postacute_half,Halved,0.145,0.24,11631.302197382865
+high_risk_postacute_half,Halved,0.146,0.24,11767.380143571703
+high_risk_postacute_half,Halved,0.147,0.24,11903.458089760556
+high_risk_postacute_half,Halved,0.148,0.24,12039.536035949408
+high_risk_postacute_half,Halved,0.149,0.24,12175.613982138253
+high_risk_postacute_half,Halved,0.15,0.24,12311.691928327113
+high_risk_postacute_half,Halved,0.151,0.24,12447.76987451595
+high_risk_postacute_half,Halved,0.152,0.24,12583.847820704796
+high_risk_postacute_half,Halved,0.153,0.24,12719.925766893648
+high_risk_postacute_half,Halved,0.154,0.24,12856.003713082493
+high_risk_postacute_half,Halved,0.155,0.24,12992.081659271338
+high_risk_postacute_half,Halved,0.156,0.24,13128.159605460183
+high_risk_postacute_half,Halved,0.157,0.24,13264.237551649036
+high_risk_postacute_half,Halved,0.158,0.24,13400.31549783788
+high_risk_postacute_half,Halved,0.159,0.24,13536.393444026733
+high_risk_postacute_half,Halved,0.16,0.24,13672.471390215578
+high_risk_postacute_half,Halved,0.161,0.24,13808.549336404423
+high_risk_postacute_half,Halved,0.162,0.24,13944.627282593268
+high_risk_postacute_half,Halved,0.163,0.24,14080.705228782113
+high_risk_postacute_half,Halved,0.164,0.24,14216.783174970958
+high_risk_postacute_half,Halved,0.165,0.24,14352.861121159804
+high_risk_postacute_half,Halved,0.166,0.24,14488.939067348663
+high_risk_postacute_half,Halved,0.167,0.24,14625.017013537516
+high_risk_postacute_half,Halved,0.168,0.24,14761.094959726353
+high_risk_postacute_half,Halved,0.169,0.24,14897.172905915198
+high_risk_postacute_half,Halved,0.17,0.24,15033.25085210405
+high_risk_postacute_half,Halved,0.171,0.24,15169.328798292903
+high_risk_postacute_half,Halved,0.17200000000000001,0.24,15305.406744481734
+high_risk_postacute_half,Halved,0.17300000000000001,0.24,15441.484690670593
+high_risk_postacute_half,Halved,0.17400000000000002,0.24,15577.562636859438
+high_risk_postacute_half,Halved,0.17500000000000002,0.24,15713.640583048298
+high_risk_postacute_half,Halved,0.176,0.24,15849.718529237136
+high_risk_postacute_half,Halved,0.177,0.24,15985.796475425974
+high_risk_postacute_half,Halved,0.178,0.24,16121.874421614819
+high_risk_postacute_half,Halved,0.179,0.24,16257.952367803678
+high_risk_postacute_half,Halved,0.18,0.24,16394.030313992516
+high_risk_postacute_half,Halved,0.181,0.24,16530.10826018137
+high_risk_postacute_half,Halved,0.182,0.24,16666.186206370214
+high_risk_postacute_half,Halved,0.183,0.24,16802.264152559066
+high_risk_postacute_half,Halved,0.184,0.24,16938.342098747915
+high_risk_postacute_half,Halved,0.185,0.24,17074.420044936756
+high_risk_postacute_half,Halved,0.186,0.24,17210.4979911256
+high_risk_postacute_half,Halved,0.187,0.24,17346.57593731445
+high_risk_postacute_half,Halved,0.188,0.24,17482.653883503302
+high_risk_postacute_half,Halved,0.189,0.24,17618.731829692148
+high_risk_postacute_half,Halved,0.19,0.24,17754.809775881
+high_risk_postacute_half,Halved,0.191,0.24,17890.887722069845
+high_risk_postacute_half,Halved,0.192,0.24,18026.965668258697
+high_risk_postacute_half,Halved,0.193,0.24,18163.043614447542
+high_risk_postacute_half,Halved,0.194,0.24,18299.12156063638
+high_risk_postacute_half,Halved,0.195,0.24,18435.199506825233
+high_risk_postacute_half,Halved,0.196,0.24,18571.277453014078
+high_risk_postacute_half,Halved,0.197,0.24,18707.355399202934
+high_risk_postacute_half,Halved,0.198,0.24,18843.433345391768
+high_risk_postacute_half,Halved,0.199,0.24,18979.511291580617
+high_risk_postacute_half,Halved,0.2,0.24,19115.589237769476
+high_risk_postacute_half,Halved,0.201,0.24,19251.667183958318
+high_risk_postacute_half,Halved,0.202,0.24,19387.745130147166
+high_risk_postacute_half,Halved,0.203,0.24,19523.823076336008
+high_risk_postacute_half,Halved,0.20400000000000001,0.24,19659.901022524857
+high_risk_postacute_half,Halved,0.20500000000000002,0.24,19795.978968713705
+high_risk_postacute_half,Halved,0.20600000000000002,0.24,19932.05691490255
+high_risk_postacute_half,Halved,0.20700000000000002,0.24,20068.1348610914
+high_risk_postacute_half,Halved,0.20800000000000002,0.24,20204.212807280248
+high_risk_postacute_half,Halved,0.209,0.24,20340.290753469097
+high_risk_postacute_half,Halved,0.21,0.24,20476.36869965794
+high_risk_postacute_half,Halved,0.211,0.24,20612.44664584679
+high_risk_postacute_half,Halved,0.212,0.24,20748.524592035636
+high_risk_postacute_half,Halved,0.213,0.24,20884.602538224484
+high_risk_postacute_half,Halved,0.214,0.24,21020.680484413337
+high_risk_postacute_half,Halved,0.215,0.24,21156.75843060218
+high_risk_postacute_half,Halved,0.216,0.24,21292.83637679103
+high_risk_postacute_half,Halved,0.217,0.24,21428.914322979876
+high_risk_postacute_half,Halved,0.218,0.24,21564.99226916872
+high_risk_postacute_half,Halved,0.219,0.24,21701.07021535757
+high_risk_postacute_half,Halved,0.22,0.24,21837.148161546414
+high_risk_postacute_half,Halved,0.221,0.24,21973.22610773526
+high_risk_postacute_half,Halved,0.222,0.24,22109.304053924105
+high_risk_postacute_half,Halved,0.223,0.24,22245.382000112957
+high_risk_postacute_half,Halved,0.224,0.24,22381.459946301802
+high_risk_postacute_half,Halved,0.225,0.24,22517.53789249065
+high_risk_postacute_half,Halved,0.226,0.24,22653.615838679503
+high_risk_postacute_half,Halved,0.227,0.24,22789.69378486835
+high_risk_postacute_half,Halved,0.228,0.24,22925.771731057197
+high_risk_postacute_half,Halved,0.229,0.24,23061.84967724604
+high_risk_postacute_half,Halved,0.23,0.24,23197.927623434894
+high_risk_postacute_half,Halved,0.231,0.24,23334.00556962374
+high_risk_postacute_half,Halved,0.232,0.24,23470.08351581259
+high_risk_postacute_half,Halved,0.233,0.24,23606.16146200144
+high_risk_postacute_half,Halved,0.234,0.24,23742.239408190282
+high_risk_postacute_half,Halved,0.23500000000000001,0.24,23878.31735437913
+high_risk_postacute_half,Halved,0.23600000000000002,0.24,24014.395300567976
+high_risk_postacute_half,Halved,0.23700000000000002,0.24,24150.473246756836
+high_risk_postacute_half,Halved,0.23800000000000002,0.24,24286.551192945662
+high_risk_postacute_half,Halved,0.23900000000000002,0.24,24422.62913913452
+high_risk_postacute_half,Halved,0.24,0.24,24558.707085323367
+high_risk_postacute_half,Halved,0.241,0.24,24694.785031512212
+high_risk_postacute_half,Halved,0.242,0.24,24830.862977701057
+high_risk_postacute_half,Halved,0.243,0.24,24966.940923889902
+high_risk_postacute_half,Halved,0.244,0.24,25103.01887007875
+high_risk_postacute_half,Halved,0.245,0.24,25239.0968162676
+high_risk_postacute_half,Halved,0.246,0.24,25375.17476245645
+high_risk_postacute_half,Halved,0.247,0.24,25511.252708645297
+high_risk_postacute_half,Halved,0.248,0.24,25647.330654834142
+high_risk_postacute_half,Halved,0.249,0.24,25783.408601022995
+high_risk_postacute_half,Halved,0.25,0.24,25919.486547211844
+high_risk_postacute_half,Halved,0.251,0.24,26055.56449340068
+high_risk_postacute_half,Halved,0.252,0.24,26191.64243958953
+high_risk_postacute_half,Halved,0.253,0.24,26327.720385778386
+high_risk_postacute_half,Halved,0.254,0.24,26463.798331967228
+high_risk_postacute_half,Halved,0.255,0.24,26599.876278156065
+high_risk_postacute_half,Halved,0.256,0.24,26735.954224344918
+high_risk_postacute_half,Halved,0.257,0.24,26872.03217053377
+high_risk_postacute_half,Halved,0.258,0.24,27008.11011672262
+high_risk_postacute_half,Halved,0.259,0.24,27144.188062911468
+high_risk_postacute_half,Halved,0.26,0.24,27280.26600910031
+high_risk_postacute_half,Halved,0.261,0.24,27416.343955289158
+high_risk_postacute_half,Halved,0.262,0.24,27552.421901478003
+high_risk_postacute_half,Halved,0.263,0.24,27688.49984766686
+high_risk_postacute_half,Halved,0.264,0.24,27824.5777938557
+high_risk_postacute_half,Halved,0.265,0.24,27960.655740044545
+high_risk_postacute_half,Halved,0.266,0.24,28096.733686233398
+high_risk_postacute_half,Halved,0.267,0.24,28232.81163242224
+high_risk_postacute_half,Halved,0.268,0.24,28368.889578611095
+high_risk_postacute_half,Halved,0.269,0.24,28504.96752479994
+high_risk_postacute_half,Halved,0.27,0.24,28641.04547098879
+high_risk_postacute_half,Halved,0.271,0.24,28777.123417177638
+high_risk_postacute_half,Halved,0.272,0.24,28913.201363366483
+high_risk_postacute_half,Halved,0.273,0.24,29049.27930955533
+high_risk_postacute_half,Halved,0.274,0.24,29185.357255744177
+high_risk_postacute_half,Halved,0.275,0.24,29321.435201933025
+high_risk_postacute_half,Halved,0.276,0.24,29457.513148121863
+high_risk_postacute_half,Halved,0.277,0.24,29593.59109431072
+high_risk_postacute_half,Halved,0.278,0.24,29729.66904049956
+high_risk_postacute_half,Halved,0.279,0.24,29865.746986688406
+high_risk_postacute_half,Halved,0.28,0.24,30001.824932877265
+high_risk_postacute_half,Halved,0.281,0.24,30137.902879066107
+high_risk_postacute_half,Halved,0.28200000000000003,0.24,30273.980825254952
+high_risk_postacute_half,Halved,0.28300000000000003,0.24,30410.0587714438
+high_risk_postacute_half,Halved,0.28400000000000003,0.24,30546.13671763265
+high_risk_postacute_half,Halved,0.28500000000000003,0.24,30682.214663821498
+high_risk_postacute_half,Halved,0.28600000000000003,0.24,30818.292610010343
+high_risk_postacute_half,Halved,0.28700000000000003,0.24,30954.3705561992
+high_risk_postacute_half,Halved,0.28800000000000003,0.24,31090.448502388044
+high_risk_postacute_half,Halved,0.289,0.24,31226.526448576886
+high_risk_postacute_half,Halved,0.29,0.24,31362.60439476572
+high_risk_postacute_half,Halved,0.291,0.24,31498.682340954572
+high_risk_postacute_half,Halved,0.292,0.24,31634.76028714342
+high_risk_postacute_half,Halved,0.293,0.24,31770.838233332277
+high_risk_postacute_half,Halved,0.294,0.24,31906.916179521115
+high_risk_postacute_half,Halved,0.295,0.24,32042.99412570996
+high_risk_postacute_half,Halved,0.296,0.24,32179.07207189882
+high_risk_postacute_half,Halved,0.297,0.24,32315.15001808766
+high_risk_postacute_half,Halved,0.298,0.24,32451.227964276513
+high_risk_postacute_half,Halved,0.299,0.24,32587.30591046535
+high_risk_postacute_half,Halved,0.3,0.24,32723.383856654204
+high_risk_no_postacute,No post-acute benefit,0.0,0.24,-8100.0
+high_risk_no_postacute,No post-acute benefit,0.001,0.24,-8025.139332761151
+high_risk_no_postacute,No post-acute benefit,0.002,0.24,-7950.278665522303
+high_risk_no_postacute,No post-acute benefit,0.003,0.24,-7875.417998283461
+high_risk_no_postacute,No post-acute benefit,0.004,0.24,-7800.5573310446125
+high_risk_no_postacute,No post-acute benefit,0.005,0.24,-7725.6966638057565
+high_risk_no_postacute,No post-acute benefit,0.006,0.24,-7650.835996566908
+high_risk_no_postacute,No post-acute benefit,0.007,0.24,-7575.975329328074
+high_risk_no_postacute,No post-acute benefit,0.008,0.24,-7501.114662089225
+high_risk_no_postacute,No post-acute benefit,0.009000000000000001,0.24,-7426.253994850376
+high_risk_no_postacute,No post-acute benefit,0.01,0.24,-7351.393327611528
+high_risk_no_postacute,No post-acute benefit,0.011,0.24,-7276.532660372686
+high_risk_no_postacute,No post-acute benefit,0.012,0.24,-7201.6719931338375
+high_risk_no_postacute,No post-acute benefit,0.013000000000000001,0.24,-7126.811325894982
+high_risk_no_postacute,No post-acute benefit,0.014,0.24,-7051.950658656133
+high_risk_no_postacute,No post-acute benefit,0.015,0.24,-6977.089991417284
+high_risk_no_postacute,No post-acute benefit,0.016,0.24,-6902.229324178443
+high_risk_no_postacute,No post-acute benefit,0.017,0.24,-6827.368656939594
+high_risk_no_postacute,No post-acute benefit,0.018000000000000002,0.24,-6752.507989700745
+high_risk_no_postacute,No post-acute benefit,0.019,0.24,-6677.647322461897
+high_risk_no_postacute,No post-acute benefit,0.02,0.24,-6602.786655223063
+high_risk_no_postacute,No post-acute benefit,0.021,0.24,-6527.925987984207
+high_risk_no_postacute,No post-acute benefit,0.022,0.24,-6453.065320745358
+high_risk_no_postacute,No post-acute benefit,0.023,0.24,-6378.204653506509
+high_risk_no_postacute,No post-acute benefit,0.024,0.24,-6303.343986267668
+high_risk_no_postacute,No post-acute benefit,0.025,0.24,-6228.483319028819
+high_risk_no_postacute,No post-acute benefit,0.026000000000000002,0.24,-6153.62265178997
+high_risk_no_postacute,No post-acute benefit,0.027,0.24,-6078.761984551122
+high_risk_no_postacute,No post-acute benefit,0.028,0.24,-6003.901317312273
+high_risk_no_postacute,No post-acute benefit,0.029,0.24,-5929.040650073424
+high_risk_no_postacute,No post-acute benefit,0.03,0.24,-5854.179982834576
+high_risk_no_postacute,No post-acute benefit,0.031,0.24,-5779.319315595727
+high_risk_no_postacute,No post-acute benefit,0.032,0.24,-5704.4586483568855
+high_risk_no_postacute,No post-acute benefit,0.033,0.24,-5629.597981118044
+high_risk_no_postacute,No post-acute benefit,0.034,0.24,-5554.737313879195
+high_risk_no_postacute,No post-acute benefit,0.035,0.24,-5479.876646640347
+high_risk_no_postacute,No post-acute benefit,0.036000000000000004,0.24,-5405.015979401498
+high_risk_no_postacute,No post-acute benefit,0.037,0.24,-5330.155312162649
+high_risk_no_postacute,No post-acute benefit,0.038,0.24,-5255.294644923801
+high_risk_no_postacute,No post-acute benefit,0.039,0.24,-5180.433977684952
+high_risk_no_postacute,No post-acute benefit,0.04,0.24,-5105.573310446103
+high_risk_no_postacute,No post-acute benefit,0.041,0.24,-5030.712643207255
+high_risk_no_postacute,No post-acute benefit,0.042,0.24,-4955.851975968413
+high_risk_no_postacute,No post-acute benefit,0.043000000000000003,0.24,-4880.9913087295645
+high_risk_no_postacute,No post-acute benefit,0.044,0.24,-4806.130641490716
+high_risk_no_postacute,No post-acute benefit,0.045,0.24,-4731.269974251867
+high_risk_no_postacute,No post-acute benefit,0.046,0.24,-4656.409307013026
+high_risk_no_postacute,No post-acute benefit,0.047,0.24,-4581.548639774177
+high_risk_no_postacute,No post-acute benefit,0.048,0.24,-4506.687972535328
+high_risk_no_postacute,No post-acute benefit,0.049,0.24,-4431.82730529648
+high_risk_no_postacute,No post-acute benefit,0.05,0.24,-4356.966638057631
+high_risk_no_postacute,No post-acute benefit,0.051000000000000004,0.24,-4282.1059708187895
+high_risk_no_postacute,No post-acute benefit,0.052000000000000005,0.24,-4207.245303579941
+high_risk_no_postacute,No post-acute benefit,0.053,0.24,-4132.384636341085
+high_risk_no_postacute,No post-acute benefit,0.054,0.24,-4057.523969102236
+high_risk_no_postacute,No post-acute benefit,0.055,0.24,-3982.6633018633947
+high_risk_no_postacute,No post-acute benefit,0.056,0.24,-3907.802634624546
+high_risk_no_postacute,No post-acute benefit,0.057,0.24,-3832.9419673857046
+high_risk_no_postacute,No post-acute benefit,0.058,0.24,-3758.081300146856
+high_risk_no_postacute,No post-acute benefit,0.059000000000000004,0.24,-3683.2206329080145
+high_risk_no_postacute,No post-acute benefit,0.06,0.24,-3608.359965669166
+high_risk_no_postacute,No post-acute benefit,0.061,0.24,-3533.49929843031
+high_risk_no_postacute,No post-acute benefit,0.062,0.24,-3458.638631191461
+high_risk_no_postacute,No post-acute benefit,0.063,0.24,-3383.7779639526125
+high_risk_no_postacute,No post-acute benefit,0.064,0.24,-3308.917296713771
+high_risk_no_postacute,No post-acute benefit,0.065,0.24,-3234.0566294749224
+high_risk_no_postacute,No post-acute benefit,0.066,0.24,-3159.1959622360737
+high_risk_no_postacute,No post-acute benefit,0.067,0.24,-3084.335294997225
+high_risk_no_postacute,No post-acute benefit,0.068,0.24,-3009.4746277583836
+high_risk_no_postacute,No post-acute benefit,0.069,0.24,-2934.6139605195276
+high_risk_no_postacute,No post-acute benefit,0.07,0.24,-2859.753293280686
+high_risk_no_postacute,No post-acute benefit,0.07100000000000001,0.24,-2784.8926260418375
+high_risk_no_postacute,No post-acute benefit,0.07200000000000001,0.24,-2710.031958802996
+high_risk_no_postacute,No post-acute benefit,0.073,0.24,-2635.1712915641474
+high_risk_no_postacute,No post-acute benefit,0.074,0.24,-2560.3106243252987
+high_risk_no_postacute,No post-acute benefit,0.075,0.24,-2485.44995708645
+high_risk_no_postacute,No post-acute benefit,0.076,0.24,-2410.5892898476013
+high_risk_no_postacute,No post-acute benefit,0.077,0.24,-2335.7286226087526
+high_risk_no_postacute,No post-acute benefit,0.078,0.24,-2260.867955369904
+high_risk_no_postacute,No post-acute benefit,0.079,0.24,-2186.0072881310552
+high_risk_no_postacute,No post-acute benefit,0.08,0.24,-2111.1466208922066
+high_risk_no_postacute,No post-acute benefit,0.081,0.24,-2036.2859536533651
+high_risk_no_postacute,No post-acute benefit,0.082,0.24,-1961.4252864145164
+high_risk_no_postacute,No post-acute benefit,0.083,0.24,-1886.5646191756678
+high_risk_no_postacute,No post-acute benefit,0.084,0.24,-1811.7039519368263
+high_risk_no_postacute,No post-acute benefit,0.085,0.24,-1736.8432846979777
+high_risk_no_postacute,No post-acute benefit,0.08600000000000001,0.24,-1661.982617459129
+high_risk_no_postacute,No post-acute benefit,0.08700000000000001,0.24,-1587.1219502202803
+high_risk_no_postacute,No post-acute benefit,0.088,0.24,-1512.2612829814316
+high_risk_no_postacute,No post-acute benefit,0.089,0.24,-1437.4006157425829
+high_risk_no_postacute,No post-acute benefit,0.09,0.24,-1362.5399485037415
+high_risk_no_postacute,No post-acute benefit,0.091,0.24,-1287.6792812648928
+high_risk_no_postacute,No post-acute benefit,0.092,0.24,-1212.818614026044
+high_risk_no_postacute,No post-acute benefit,0.093,0.24,-1137.9579467871954
+high_risk_no_postacute,No post-acute benefit,0.094,0.24,-1063.097279548354
+high_risk_no_postacute,No post-acute benefit,0.095,0.24,-988.236612309498
+high_risk_no_postacute,No post-acute benefit,0.096,0.24,-913.3759450706566
+high_risk_no_postacute,No post-acute benefit,0.097,0.24,-838.5152778318079
+high_risk_no_postacute,No post-acute benefit,0.098,0.24,-763.6546105929592
+high_risk_no_postacute,No post-acute benefit,0.099,0.24,-688.7939433541178
+high_risk_no_postacute,No post-acute benefit,0.1,0.24,-613.9332761152618
+high_risk_no_postacute,No post-acute benefit,0.101,0.24,-539.0726088764131
+high_risk_no_postacute,No post-acute benefit,0.10200000000000001,0.24,-464.21194163756445
+high_risk_no_postacute,No post-acute benefit,0.10300000000000001,0.24,-389.35127439872304
+high_risk_no_postacute,No post-acute benefit,0.10400000000000001,0.24,-314.49060715987434
+high_risk_no_postacute,No post-acute benefit,0.105,0.24,-239.62993992102565
+high_risk_no_postacute,No post-acute benefit,0.106,0.24,-164.76927268217696
+high_risk_no_postacute,No post-acute benefit,0.107,0.24,-89.90860544334282
+high_risk_no_postacute,No post-acute benefit,0.108,0.24,-15.047938204486854
+high_risk_no_postacute,No post-acute benefit,0.109,0.24,59.81272903435456
+high_risk_no_postacute,No post-acute benefit,0.11,0.24,134.67339627321053
+high_risk_no_postacute,No post-acute benefit,0.111,0.24,209.53406351205922
+high_risk_no_postacute,No post-acute benefit,0.112,0.24,284.39473075090064
+high_risk_no_postacute,No post-acute benefit,0.113,0.24,359.2553979897493
+high_risk_no_postacute,No post-acute benefit,0.114,0.24,434.116065228598
+high_risk_no_postacute,No post-acute benefit,0.115,0.24,508.9767324674467
+high_risk_no_postacute,No post-acute benefit,0.116,0.24,583.8373997062881
+high_risk_no_postacute,No post-acute benefit,0.117,0.24,658.6980669451441
+high_risk_no_postacute,No post-acute benefit,0.11800000000000001,0.24,733.5587341839928
+high_risk_no_postacute,No post-acute benefit,0.11900000000000001,0.24,808.4194014228415
+high_risk_no_postacute,No post-acute benefit,0.12,0.24,883.2800686616829
+high_risk_no_postacute,No post-acute benefit,0.121,0.24,958.1407359005243
+high_risk_no_postacute,No post-acute benefit,0.122,0.24,1033.001403139373
+high_risk_no_postacute,No post-acute benefit,0.123,0.24,1107.8620703782217
+high_risk_no_postacute,No post-acute benefit,0.124,0.24,1182.7227376170704
+high_risk_no_postacute,No post-acute benefit,0.125,0.24,1257.5834048559118
+high_risk_no_postacute,No post-acute benefit,0.126,0.24,1332.4440720947678
+high_risk_no_postacute,No post-acute benefit,0.127,0.24,1407.3047393336165
+high_risk_no_postacute,No post-acute benefit,0.128,0.24,1482.1654065724651
+high_risk_no_postacute,No post-acute benefit,0.129,0.24,1557.0260738113066
+high_risk_no_postacute,No post-acute benefit,0.13,0.24,1631.8867410501553
+high_risk_no_postacute,No post-acute benefit,0.131,0.24,1706.747408289004
+high_risk_no_postacute,No post-acute benefit,0.132,0.24,1781.6080755278526
+high_risk_no_postacute,No post-acute benefit,0.133,0.24,1856.468742766694
+high_risk_no_postacute,No post-acute benefit,0.134,0.24,1931.32941000555
+high_risk_no_postacute,No post-acute benefit,0.135,0.24,2006.1900772443914
+high_risk_no_postacute,No post-acute benefit,0.136,0.24,2081.05074448324
+high_risk_no_postacute,No post-acute benefit,0.137,0.24,2155.911411722089
+high_risk_no_postacute,No post-acute benefit,0.138,0.24,2230.7720789609302
+high_risk_no_postacute,No post-acute benefit,0.139,0.24,2305.632746199779
+high_risk_no_postacute,No post-acute benefit,0.14,0.24,2380.493413438635
+high_risk_no_postacute,No post-acute benefit,0.14100000000000001,0.24,2455.3540806774836
+high_risk_no_postacute,No post-acute benefit,0.14200000000000002,0.24,2530.214747916325
+high_risk_no_postacute,No post-acute benefit,0.14300000000000002,0.24,2605.0754151551737
+high_risk_no_postacute,No post-acute benefit,0.14400000000000002,0.24,2679.9360823940224
+high_risk_no_postacute,No post-acute benefit,0.145,0.24,2754.796749632864
+high_risk_no_postacute,No post-acute benefit,0.146,0.24,2829.657416871705
+high_risk_no_postacute,No post-acute benefit,0.147,0.24,2904.518084110554
+high_risk_no_postacute,No post-acute benefit,0.148,0.24,2979.3787513494026
+high_risk_no_postacute,No post-acute benefit,0.149,0.24,3054.2394185882513
+high_risk_no_postacute,No post-acute benefit,0.15,0.24,3129.1000858271073
+high_risk_no_postacute,No post-acute benefit,0.151,0.24,3203.9607530659487
+high_risk_no_postacute,No post-acute benefit,0.152,0.24,3278.8214203047974
+high_risk_no_postacute,No post-acute benefit,0.153,0.24,3353.682087543646
+high_risk_no_postacute,No post-acute benefit,0.154,0.24,3428.5427547824947
+high_risk_no_postacute,No post-acute benefit,0.155,0.24,3503.403422021336
+high_risk_no_postacute,No post-acute benefit,0.156,0.24,3578.2640892601776
+high_risk_no_postacute,No post-acute benefit,0.157,0.24,3653.124756499041
+high_risk_no_postacute,No post-acute benefit,0.158,0.24,3727.9854237378822
+high_risk_no_postacute,No post-acute benefit,0.159,0.24,3802.8460909767236
+high_risk_no_postacute,No post-acute benefit,0.16,0.24,3877.7067582155723
+high_risk_no_postacute,No post-acute benefit,0.161,0.24,3952.567425454421
+high_risk_no_postacute,No post-acute benefit,0.162,0.24,4027.4280926932697
+high_risk_no_postacute,No post-acute benefit,0.163,0.24,4102.288759932118
+high_risk_no_postacute,No post-acute benefit,0.164,0.24,4177.14942717096
+high_risk_no_postacute,No post-acute benefit,0.165,0.24,4252.0100944098085
+high_risk_no_postacute,No post-acute benefit,0.166,0.24,4326.8707616486645
+high_risk_no_postacute,No post-acute benefit,0.167,0.24,4401.731428887513
+high_risk_no_postacute,No post-acute benefit,0.168,0.24,4476.592096126355
+high_risk_no_postacute,No post-acute benefit,0.169,0.24,4551.452763365203
+high_risk_no_postacute,No post-acute benefit,0.17,0.24,4626.313430604045
+high_risk_no_postacute,No post-acute benefit,0.171,0.24,4701.174097842901
+high_risk_no_postacute,No post-acute benefit,0.17200000000000001,0.24,4776.034765081742
+high_risk_no_postacute,No post-acute benefit,0.17300000000000001,0.24,4850.895432320591
+high_risk_no_postacute,No post-acute benefit,0.17400000000000002,0.24,4925.7560995594395
+high_risk_no_postacute,No post-acute benefit,0.17500000000000002,0.24,5000.616766798288
+high_risk_no_postacute,No post-acute benefit,0.176,0.24,5075.477434037137
+high_risk_no_postacute,No post-acute benefit,0.177,0.24,5150.338101275978
+high_risk_no_postacute,No post-acute benefit,0.178,0.24,5225.19876851482
+high_risk_no_postacute,No post-acute benefit,0.179,0.24,5300.059435753676
+high_risk_no_postacute,No post-acute benefit,0.18,0.24,5374.920102992524
+high_risk_no_postacute,No post-acute benefit,0.181,0.24,5449.7807702313585
+high_risk_no_postacute,No post-acute benefit,0.182,0.24,5524.641437470207
+high_risk_no_postacute,No post-acute benefit,0.183,0.24,5599.502104709063
+high_risk_no_postacute,No post-acute benefit,0.184,0.24,5674.362771947912
+high_risk_no_postacute,No post-acute benefit,0.185,0.24,5749.223439186753
+high_risk_no_postacute,No post-acute benefit,0.186,0.24,5824.084106425602
+high_risk_no_postacute,No post-acute benefit,0.187,0.24,5898.944773664451
+high_risk_no_postacute,No post-acute benefit,0.188,0.24,5973.805440903299
+high_risk_no_postacute,No post-acute benefit,0.189,0.24,6048.666108142148
+high_risk_no_postacute,No post-acute benefit,0.19,0.24,6123.526775380997
+high_risk_no_postacute,No post-acute benefit,0.191,0.24,6198.387442619845
+high_risk_no_postacute,No post-acute benefit,0.192,0.24,6273.248109858694
+high_risk_no_postacute,No post-acute benefit,0.193,0.24,6348.108777097543
+high_risk_no_postacute,No post-acute benefit,0.194,0.24,6422.969444336384
+high_risk_no_postacute,No post-acute benefit,0.195,0.24,6497.830111575226
+high_risk_no_postacute,No post-acute benefit,0.196,0.24,6572.690778814074
+high_risk_no_postacute,No post-acute benefit,0.197,0.24,6647.55144605293
+high_risk_no_postacute,No post-acute benefit,0.198,0.24,6722.412113291764
+high_risk_no_postacute,No post-acute benefit,0.199,0.24,6797.27278053062
+high_risk_no_postacute,No post-acute benefit,0.2,0.24,6872.133447769469
+high_risk_no_postacute,No post-acute benefit,0.201,0.24,6946.994115008318
+high_risk_no_postacute,No post-acute benefit,0.202,0.24,7021.854782247166
+high_risk_no_postacute,No post-acute benefit,0.203,0.24,7096.715449486008
+high_risk_no_postacute,No post-acute benefit,0.20400000000000001,0.24,7171.576116724857
+high_risk_no_postacute,No post-acute benefit,0.20500000000000002,0.24,7246.436783963705
+high_risk_no_postacute,No post-acute benefit,0.20600000000000002,0.24,7321.297451202554
+high_risk_no_postacute,No post-acute benefit,0.20700000000000002,0.24,7396.158118441395
+high_risk_no_postacute,No post-acute benefit,0.20800000000000002,0.24,7471.018785680251
+high_risk_no_postacute,No post-acute benefit,0.209,0.24,7545.879452919093
+high_risk_no_postacute,No post-acute benefit,0.21,0.24,7620.740120157941
+high_risk_no_postacute,No post-acute benefit,0.211,0.24,7695.60078739679
+high_risk_no_postacute,No post-acute benefit,0.212,0.24,7770.4614546356315
+high_risk_no_postacute,No post-acute benefit,0.213,0.24,7845.3221218744875
+high_risk_no_postacute,No post-acute benefit,0.214,0.24,7920.182789113336
+high_risk_no_postacute,No post-acute benefit,0.215,0.24,7995.043456352185
+high_risk_no_postacute,No post-acute benefit,0.216,0.24,8069.904123591026
+high_risk_no_postacute,No post-acute benefit,0.217,0.24,8144.764790829875
+high_risk_no_postacute,No post-acute benefit,0.218,0.24,8219.625458068724
+high_risk_no_postacute,No post-acute benefit,0.219,0.24,8294.486125307572
+high_risk_no_postacute,No post-acute benefit,0.22,0.24,8369.346792546421
+high_risk_no_postacute,No post-acute benefit,0.221,0.24,8444.207459785262
+high_risk_no_postacute,No post-acute benefit,0.222,0.24,8519.068127024104
+high_risk_no_postacute,No post-acute benefit,0.223,0.24,8593.92879426296
+high_risk_no_postacute,No post-acute benefit,0.224,0.24,8668.789461501801
+high_risk_no_postacute,No post-acute benefit,0.225,0.24,8743.65012874065
+high_risk_no_postacute,No post-acute benefit,0.226,0.24,8818.510795979499
+high_risk_no_postacute,No post-acute benefit,0.227,0.24,8893.371463218347
+high_risk_no_postacute,No post-acute benefit,0.228,0.24,8968.232130457196
+high_risk_no_postacute,No post-acute benefit,0.229,0.24,9043.092797696037
+high_risk_no_postacute,No post-acute benefit,0.23,0.24,9117.953464934893
+high_risk_no_postacute,No post-acute benefit,0.231,0.24,9192.814132173742
+high_risk_no_postacute,No post-acute benefit,0.232,0.24,9267.67479941259
+high_risk_no_postacute,No post-acute benefit,0.233,0.24,9342.53546665144
+high_risk_no_postacute,No post-acute benefit,0.234,0.24,9417.396133890274
+high_risk_no_postacute,No post-acute benefit,0.23500000000000001,0.24,9492.25680112913
+high_risk_no_postacute,No post-acute benefit,0.23600000000000002,0.24,9567.117468367971
+high_risk_no_postacute,No post-acute benefit,0.23700000000000002,0.24,9641.978135606827
+high_risk_no_postacute,No post-acute benefit,0.23800000000000002,0.24,9716.838802845668
+high_risk_no_postacute,No post-acute benefit,0.23900000000000002,0.24,9791.699470084517
+high_risk_no_postacute,No post-acute benefit,0.24,0.24,9866.560137323366
+high_risk_no_postacute,No post-acute benefit,0.241,0.24,9941.420804562214
+high_risk_no_postacute,No post-acute benefit,0.242,0.24,10016.281471801049
+high_risk_no_postacute,No post-acute benefit,0.243,0.24,10091.142139039905
+high_risk_no_postacute,No post-acute benefit,0.244,0.24,10166.002806278753
+high_risk_no_postacute,No post-acute benefit,0.245,0.24,10240.863473517602
+high_risk_no_postacute,No post-acute benefit,0.246,0.24,10315.72414075645
+high_risk_no_postacute,No post-acute benefit,0.247,0.24,10390.5848079953
+high_risk_no_postacute,No post-acute benefit,0.248,0.24,10465.44547523414
+high_risk_no_postacute,No post-acute benefit,0.249,0.24,10540.30614247299
+high_risk_no_postacute,No post-acute benefit,0.25,0.24,10615.166809711838
+high_risk_no_postacute,No post-acute benefit,0.251,0.24,10690.02747695068
+high_risk_no_postacute,No post-acute benefit,0.252,0.24,10764.888144189528
+high_risk_no_postacute,No post-acute benefit,0.253,0.24,10839.748811428384
+high_risk_no_postacute,No post-acute benefit,0.254,0.24,10914.609478667233
+high_risk_no_postacute,No post-acute benefit,0.255,0.24,10989.470145906067
+high_risk_no_postacute,No post-acute benefit,0.256,0.24,11064.330813144916
+high_risk_no_postacute,No post-acute benefit,0.257,0.24,11139.191480383772
+high_risk_no_postacute,No post-acute benefit,0.258,0.24,11214.052147622613
+high_risk_no_postacute,No post-acute benefit,0.259,0.24,11288.912814861469
+high_risk_no_postacute,No post-acute benefit,0.26,0.24,11363.77348210031
+high_risk_no_postacute,No post-acute benefit,0.261,0.24,11438.634149339152
+high_risk_no_postacute,No post-acute benefit,0.262,0.24,11513.494816578
+high_risk_no_postacute,No post-acute benefit,0.263,0.24,11588.355483816864
+high_risk_no_postacute,No post-acute benefit,0.264,0.24,11663.216151055698
+high_risk_no_postacute,No post-acute benefit,0.265,0.24,11738.076818294547
+high_risk_no_postacute,No post-acute benefit,0.266,0.24,11812.937485533395
+high_risk_no_postacute,No post-acute benefit,0.267,0.24,11887.798152772244
+high_risk_no_postacute,No post-acute benefit,0.268,0.24,11962.658820011093
+high_risk_no_postacute,No post-acute benefit,0.269,0.24,12037.519487249941
+high_risk_no_postacute,No post-acute benefit,0.27,0.24,12112.38015448879
+high_risk_no_postacute,No post-acute benefit,0.271,0.24,12187.240821727639
+high_risk_no_postacute,No post-acute benefit,0.272,0.24,12262.10148896648
+high_risk_no_postacute,No post-acute benefit,0.273,0.24,12336.962156205329
+high_risk_no_postacute,No post-acute benefit,0.274,0.24,12411.82282344417
+high_risk_no_postacute,No post-acute benefit,0.275,0.24,12486.683490683026
+high_risk_no_postacute,No post-acute benefit,0.276,0.24,12561.54415792186
+high_risk_no_postacute,No post-acute benefit,0.277,0.24,12636.404825160716
+high_risk_no_postacute,No post-acute benefit,0.278,0.24,12711.265492399558
+high_risk_no_postacute,No post-acute benefit,0.279,0.24,12786.126159638407
+high_risk_no_postacute,No post-acute benefit,0.28,0.24,12860.986826877263
+high_risk_no_postacute,No post-acute benefit,0.281,0.24,12935.847494116104
+high_risk_no_postacute,No post-acute benefit,0.28200000000000003,0.24,13010.708161354953
+high_risk_no_postacute,No post-acute benefit,0.28300000000000003,0.24,13085.568828593801
+high_risk_no_postacute,No post-acute benefit,0.28400000000000003,0.24,13160.42949583265
+high_risk_no_postacute,No post-acute benefit,0.28500000000000003,0.24,13235.290163071491
+high_risk_no_postacute,No post-acute benefit,0.28600000000000003,0.24,13310.15083031034
+high_risk_no_postacute,No post-acute benefit,0.28700000000000003,0.24,13385.011497549189
+high_risk_no_postacute,No post-acute benefit,0.28800000000000003,0.24,13459.872164788037
+high_risk_no_postacute,No post-acute benefit,0.289,0.24,13534.732832026886
+high_risk_no_postacute,No post-acute benefit,0.29,0.24,13609.593499265713
+high_risk_no_postacute,No post-acute benefit,0.291,0.24,13684.454166504576
+high_risk_no_postacute,No post-acute benefit,0.292,0.24,13759.314833743425
+high_risk_no_postacute,No post-acute benefit,0.293,0.24,13834.175500982274
+high_risk_no_postacute,No post-acute benefit,0.294,0.24,13909.036168221108
+high_risk_no_postacute,No post-acute benefit,0.295,0.24,13983.896835459956
+high_risk_no_postacute,No post-acute benefit,0.296,0.24,14058.75750269882
+high_risk_no_postacute,No post-acute benefit,0.297,0.24,14133.618169937654
+high_risk_no_postacute,No post-acute benefit,0.298,0.24,14208.478837176517
+high_risk_no_postacute,No post-acute benefit,0.299,0.24,14283.339504415359
+high_risk_no_postacute,No post-acute benefit,0.3,0.24,14358.2001716542
