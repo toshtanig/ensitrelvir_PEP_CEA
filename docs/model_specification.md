@@ -1,4 +1,4 @@
-# Model specification, v0.3.2
+# Model specification, v0.3.3
 
 ## Decision problem
 
@@ -95,7 +95,7 @@ Repository validation checks numeric bounds, trial arithmetic, source foreign ke
 External face-validity checks compare modeled hospital cost and length of stay with a Japanese cost cohort, and compare the publication-base length of stay and in-hospital mortality with the contemporary inpatient cohort used as model inputs.
 
 
-## Release clarifications, v0.3.2
+## Release clarifications, v0.3.3
 
 - The FY2026 two-point outpatient inflation add-on, equivalent to JPY 20 for an initial visit, is not included because its effect is immaterial. Facility-dependent wage add-ons are separately excluded because eligibility varies.
 - The exploratory breakthrough-treatment scenario includes antiviral acquisition cost and a treated hospitalization risk but omits additional consultation, testing, and dispensing costs. Including those costs would slightly favor prophylaxis and would not change the conclusion.

@@ -1,5 +1,5 @@
 ﻿check_id,check_type,metric,observed_value,unit,source_id,model_comparison,notes
-V01,input_traceability,"Median total inpatient cost, all hospitalized cases",1304431.0,JPY/admission,E08,Compare with modeled expected inpatient cost conditional on hospitalization; means and medians are not directly equivalent.,"Observed IQR JPY 968,349 to 1,954,093."
+V01,input_traceability,"Mean total inpatient cost, all hospitalized cases",2056604.0,JPY/admission,E08,Compare with modeled expected inpatient cost conditional on hospitalization.,"Derived from the reported total cost JPY 678,679,460 for 330 patients. Reported median JPY 1,304,431 (IQR 968,349 to 1,954,093)."
 V02,external_face_validity,Median severe inpatient cost,6210607.0,JPY/admission,E08,Compare with ICU with ventilation pathway cost as a face-validity check.,2021 single-center severe cases.
 V03,external_face_validity,"Median length of stay, all hospitalized cases",10.0,days,E08,Compare with pathway-weighted length of stay.,Observed in 330 hospitalized patients.
 V04,input_traceability,"Median length of stay, contemporary hospitalized cohort",21.0,days,E12,Compare with publication-base hospital length of stay.,Japanese inpatient database through January 2024.

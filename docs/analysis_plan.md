@@ -1,4 +1,8 @@
-# Analysis plan: ensitrelvir post-exposure prophylaxis, v0.3.2
+# Analysis plan: ensitrelvir post-exposure prophylaxis, v0.3.3
+
+## Plan history
+
+This analysis plan was written by the study team during model development (versions 0.2 and 0.3, August 2026) and was finalized before the probabilistic and scenario results of version 0.3.2 were generated. It was not prospectively registered in an external registry. Version 0.3.3 (October 2026) added the exploratory Japan-region scenarios, a two-way threshold analysis of the drug price against baseline attack rate and hospitalization risk, the QALY-discount-rate propagation in the one-way sensitivity analysis, and the mean hospitalization cost after an internal audit; these additions are described in CHANGELOG.md and were made before journal submission.
 
 ## Objective
 
@@ -16,7 +20,7 @@ The modeled acquisition cost is JPY 49,630/course and the base delivery cost is 
 
 ## Sensitivity analyses
 
-Required analyses include overall-trial efficacy, no mortality benefit, reduced or excluded post-acute utility, hospitalization attribution, alternative delivery pathways, post-acute costs, age and immunocompromised risk scenarios, 50% post-diagnosis treatment uptake, static downstream-case bounds, and threshold analyses. The 10% conditional hospitalization scenario is hypothetical. Downstream cases receive the same high-risk conditional outcomes and therefore represent an upper bound rather than a dynamic transmission estimate.
+Required analyses include overall-trial efficacy, no mortality benefit, reduced or excluded post-acute utility, hospitalization attribution, alternative delivery pathways, post-acute costs, age and immunocompromised risk scenarios, 50% post-diagnosis treatment uptake, static downstream-case bounds, and threshold analyses. The 10% conditional hospitalization scenario is hypothetical and also recalibrates remaining QALYs per death to the age-85 proxy. Exploratory Japan-region scenarios (version 0.3.3) use the observed Japan geographic subgroup risks of SCORPIO-PEP, or the Japan-region placebo risk combined with the high-risk or overall risk ratio, while keeping all downstream high-risk inputs. Downstream cases receive the same high-risk conditional outcomes and therefore represent an upper bound rather than a dynamic transmission estimate.
 
 ## Probabilistic analysis
 
