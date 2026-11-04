@@ -36,7 +36,11 @@ These values are those in `outputs/tables/` of release v0.3.3. The README packag
 
 ## Additional analyses reported in the journal submission
 
-The robustness analyses of the exploratory immunocompromised joint scenario (Japan-region placebo risk, relative risk 0.24, hospitalization risk 0.00785 x 2.60) are reproduced with `scripts/run_joint_robustness.py`, which uses the unchanged v0.3.3 package; the same script and its results are provided in Supporting Information S2 of the manuscript (sheets `Joint_Robustness` and `Joint_Robustness_Code`). In its probabilistic analysis, the conditional hospitalization risk is sampled from its base-case PERT distribution and multiplied by the fixed multiplier 2.60 (57.2% of 10,000 simulations cost-effective at JPY 5 million/QALY). The v0.3.3 sampler keeps the base-case PERT bounds when only a scenario mode is supplied, so a scenario value outside those bounds is clipped; the script scales all three PERT values and checks that every sampled scenario value lies within its bounds.
+Code and results for the additional robustness analyses of the exploratory immunocompromised joint scenario (Japan-region placebo risk, relative risk 0.24, hospitalization risk 0.00785 x 2.60) are provided in Supporting Information S2 of the manuscript (sheets `Joint_Robustness` and `Joint_Robustness_Code`). These analyses use the unchanged version 0.3.3 model. In their probabilistic analysis, the conditional hospitalization risk is sampled from its base-case PERT distribution and multiplied by the fixed multiplier 2.60 (57.2% of 10,000 simulations cost-effective at JPY 5 million/QALY). The v0.3.3 sampler keeps the base-case PERT bounds when only a scenario mode is supplied, so a scenario value outside those bounds would be clipped; the S2 script therefore scales all three PERT values and checks that every sampled scenario value lies within its bounds.
+
+## Historical documents
+
+`docs/analysis_plan.md` and `docs/reporting_checklist.md` are kept as written during model development. Where they differ from this README, this README and `outputs/tables/` take precedence. In particular, the CEAC probabilities listed in the checklist (0%, 0.02% and 2.28%) are from an earlier development run; the v0.3.3 values are 0%, 0.04% and 2.40% at JPY 5, 7.5 and 10 million/QALY. The inpatient cost is the arithmetic mean for a 2021 cohort expressed at 2022 reimbursement levels, not a 2021 price-year value as the analysis plan states.
 
 ## Repository structure
 
