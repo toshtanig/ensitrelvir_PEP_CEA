@@ -23,13 +23,20 @@ The model compares a 5-day course of ensitrelvir with no pharmacologic post-expo
 
 | Outcome | Result |
 |---|---:|
-| Incremental cost | JPY 54,945/contact |
+| Incremental cost | JPY 54,500/contact |
 | Incremental QALYs | 0.003267/contact |
-| ICER | JPY 16.82 million/QALY |
-| INMB at JPY 5 million/QALY | JPY -38,609/contact |
-| Probability cost-effective at JPY 5 million/QALY | 0.00% |
-| Probability cost-effective at JPY 10 million/QALY | 2.28% |
-| Acquisition-cost threshold | JPY 11,021/course |
+| ICER | JPY 16.68 million/QALY |
+| INMB at JPY 5 million/QALY | JPY -38,164/contact |
+| Probability cost-effective at JPY 5 million/QALY | 0% (0 of 10,000) |
+| Probability cost-effective at JPY 7.5 million/QALY | 0.04% |
+| Probability cost-effective at JPY 10 million/QALY | 2.40% |
+| Acquisition-cost threshold | JPY 11,466/course |
+
+These values are those in `outputs/tables/` of release v0.3.3. The README packaged in the v0.3.3 archive (GitHub release and Zenodo) still showed an outdated results table from an earlier development run (incremental cost JPY 54,945, ICER JPY 16.82 million/QALY, threshold JPY 11,021); this README was corrected on the main branch on 4 November 2026. Model code, inputs and outputs are unchanged.
+
+## Additional analyses reported in the journal submission
+
+The robustness analyses of the exploratory immunocompromised joint scenario (Japan-region placebo risk, relative risk 0.24, hospitalization risk 0.00785 x 2.60) are reproduced with `scripts/run_joint_robustness.py`, which uses the unchanged v0.3.3 package; the same script and its results are provided in Supporting Information S2 of the manuscript (sheets `Joint_Robustness` and `Joint_Robustness_Code`). In its probabilistic analysis, the conditional hospitalization risk is sampled from its base-case PERT distribution and multiplied by the fixed multiplier 2.60 (57.2% of 10,000 simulations cost-effective at JPY 5 million/QALY). The v0.3.3 sampler keeps the base-case PERT bounds when only a scenario mode is supplied, so a scenario value outside those bounds is clipped; the script scales all three PERT values and checks that every sampled scenario value lies within its bounds.
 
 ## Repository structure
 
@@ -65,7 +72,7 @@ The complete workflow performs input validation, three independent derived-input
 - The post-acute utility profile comes from a retrospective online recall survey with a test-negative comparison group.
 - The 10% conditional hospitalization scenario is hypothetical and was not observed in the Japanese sources used by the model.
 - Static downstream-case analyses assign the same high-risk conditional outcomes to downstream cases. They are upper-bound calculations, not a dynamic transmission model.
-- Drug acquisition and delivery use 2026 values. Transferred outpatient and inpatient costs retain 2023 and 2021 source-year nominal values.
+- Drug acquisition and delivery use 2026 values. Transferred outpatient costs retain 2023 source-year values; the inpatient cost is the arithmetic mean for a 2021 cohort expressed at 2022 reimbursement levels (not further repriced to 2026).
 - The FY2026 two-point outpatient inflation add-on, equivalent to JPY 20, is omitted because its effect is immaterial. Facility-dependent wage add-ons are separately excluded.
 
 ## Public release workflow
