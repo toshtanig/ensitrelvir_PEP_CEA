@@ -36,7 +36,11 @@ These values are those in `outputs/tables/` of release v0.3.3. The README packag
 
 ## Additional analyses reported in the journal submission
 
-Code and results for the additional robustness analyses of the exploratory immunocompromised joint scenario (Japan-region placebo risk, relative risk 0.24, hospitalization risk 0.00785 x 2.60) are provided in Supporting Information S2 of the manuscript (sheets `Joint_Robustness` and `Joint_Robustness_Code`). These analyses use the unchanged version 0.3.3 model. In their probabilistic analysis, the conditional hospitalization risk is sampled from its base-case PERT distribution and multiplied by the fixed multiplier 2.60 (57.2% of 10,000 simulations cost-effective at JPY 5 million/QALY). The v0.3.3 sampler keeps the base-case PERT bounds when only a scenario mode is supplied, so a scenario value outside those bounds would be clipped; the S2 script therefore scales all three PERT values and checks that every sampled scenario value lies within its bounds.
+The robustness analyses of the exploratory immunocompromised joint scenario (Japan-region placebo risk, relative risk 0.24, hospitalization risk 0.00785 x 2.60) are reproduced with `scripts/run_joint_robustness.py` on this main branch, which uses the unchanged version 0.3.3 package; its output is `outputs/tables/joint_scenario_robustness.csv`. The results are reported in Supporting Information S1 (Table S12) of the manuscript. In the probabilistic analysis, the conditional hospitalization risk is sampled from its base-case PERT distribution and multiplied by the fixed multiplier 2.60 (57.2% of 10,000 simulations cost-effective at JPY 5 million/QALY). The v0.3.3 sampler keeps the base-case PERT bounds when only a scenario mode is supplied, so a scenario value outside those bounds would be clipped; the script therefore scales all three PERT values and checks that every sampled scenario value lies within its bounds.
+
+```bash
+python scripts/run_joint_robustness.py
+```
 
 ## Historical documents
 
